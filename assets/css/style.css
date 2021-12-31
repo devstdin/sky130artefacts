@@ -1,4 +1,4 @@
-/* CSS from https://github.com/orderedlist/minimal */ 
+/* CSS based on https://github.com/orderedlist/minimal */ 
 body {
   background-color: #fff;
   padding:50px;
@@ -55,11 +55,6 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
-  width:860px;
-  margin:0 auto;
-}
-
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -81,12 +76,10 @@ pre {
 }
 
 table {
-  width:100%;
   border-collapse:collapse;
 }
 
 th, td {
-  text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
 }
@@ -105,7 +98,6 @@ img {
 }
 
 header {
-  width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -113,12 +105,11 @@ header {
 
 header ul {
   list-style:none;
-  height:40px;
   padding:0;
+  height:40px;
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px;
 }
 
 header li {
@@ -188,7 +179,6 @@ hr {
 }
 
 footer {
-  width:270px;
   float:left;
   position:fixed;
   bottom:50px;
