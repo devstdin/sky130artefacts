@@ -1,4 +1,4 @@
-31.12.2021, 18:04:17
+01.01.2022, 21:41:10
 
 # Vth Current Reference
 
@@ -30,8 +30,26 @@ LVS-state: Netlists match uniquely.<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Current Curvature (Sink) | 0.0 / 0.191 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.509183999999998,10.0,47.270208,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.509183999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.270208" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.307 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
-| Output Current Curvature (Source) | 0.0 / 0.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.7766208,10.0,46.9751376,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.7766208" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="46.9751376" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.305 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Sink) | 0.0 / 0.192 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.5846832,10.0,46.624771200000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.5846832" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="46.624771200000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.303 / 1.0 | uA | 50/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Source) | 0.0 / 0.195 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.0913328,10.0,46.4798784,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.0913328" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="46.4798784" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.302 / 1.0 | uA | 50/100.0%/0.0%/0.0% |  |
+
+<br>
+
+## DC Specification (PEX)<br>
+
+| Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
+| :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
+| Output Current Curvature (Sink) | 0.0 / 0.197 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.3522608,10.0,47.764776,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.3522608" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.764776" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.311 / 1.0 | uA | 20/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Source) | 0.0 / 0.167 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="27.035543999999998,10.0,55.2124272,10.0" style="stroke:green;stroke-width:2" /><circle cx="27.035543999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="55.2124272" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.363 / 1.0 | uA | 20/100.0%/0.0%/0.0% |  |
+
+<br>
+
+## DC Specification (Monte Carlo, PEX)<br>
+
+| Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
+| :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
+| Output Current Curvature (Sink) | 0.0 / 0.195 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.091577599999997,10.0,45.3408096,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.091577599999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="45.3408096" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.294 / 1.0 | uA | 50/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Source) | 0.0 / 0.203 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="32.1997872,10.0,48.1035504,10.0" style="stroke:green;stroke-width:2" /><circle cx="32.1997872" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="48.1035504" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.313 / 1.0 | uA | 50/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -39,66 +57,88 @@ LVS-state: Netlists match uniquely.<br>
 
 ## DC Performance<br>
 
-| ![xyplot_temp-sweepi(visink)v(vdd)_('tt',_-2)__8bde3970a962e2580e028ad19849a3af](xyplot_temp-sweepi(visink)v(vdd)_('tt',_-2)__8bde3970a962e2580e028ad19849a3af.png "") |
+| ![xyplot_temp-sweepi(visink)v(vdd)_('tt',_-2)__906d63d15d9e4df2b46e34b20351f79c](xyplot_temp-sweepi(visink)v(vdd)_('tt',_-2)__906d63d15d9e4df2b46e34b20351f79c.png "") |
 | :-- |
 |  |
 <br>
 
-| ![xyplot_temp-sweepi(visource)v(vdd)_('tt',_-2)__8bde3970a962e2580e028ad19849a3af](xyplot_temp-sweepi(visource)v(vdd)_('tt',_-2)__8bde3970a962e2580e028ad19849a3af.png "") |
+| ![xyplot_temp-sweepi(visource)v(vdd)_('tt',_-2)__906d63d15d9e4df2b46e34b20351f79c](xyplot_temp-sweepi(visource)v(vdd)_('tt',_-2)__906d63d15d9e4df2b46e34b20351f79c.png "") |
 | :-- |
 |  |
 <br>
 
-| ![xyplot_temp-sweepi(visink)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af](xyplot_temp-sweepi(visink)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af.png "") |
+| ![xyplot_temp-sweepi(visink)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c](xyplot_temp-sweepi(visink)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c.png "") |
 | :-- |
 |  |
 <br>
 
-| ![xyplot_temp-sweepi(visource)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af](xyplot_temp-sweepi(visource)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af.png "") |
+| ![xyplot_temp-sweepi(visource)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c](xyplot_temp-sweepi(visource)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c.png "") |
 | :-- |
 |  |
 <br>
 
-| ![xyplot_temp-sweepv(x1.vs)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af](xyplot_temp-sweepv(x1.vs)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af.png "") |
+| ![xyplot_temp-sweepv(x1.vs)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c](xyplot_temp-sweepv(x1.vs)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c.png "") |
 | :-- |
 |  |
 <br>
 
-| ![xyplot_temp-sweepv(x1.vp)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af](xyplot_temp-sweepv(x1.vp)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af.png "") |
+| ![xyplot_temp-sweepv(x1.vp)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c](xyplot_temp-sweepv(x1.vp)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c.png "") |
 | :-- |
 |  |
 <br>
 
-| ![xyplot_temp-sweepi(_b.x1.xrsu.xsky130_fd_pr__res_xhigh_po_0p69.brend_i_)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af](xyplot_temp-sweepi(_b.x1.xrsu.xsky130_fd_pr__res_xhigh_po_0p69.brend_i_)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__8bde3970a962e2580e028ad19849a3af.png "") |
+| ![xyplot_temp-sweepi(_b.x1.xrsu.xsky130_fd_pr__res_xhigh_po_0p69.brend_i_)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c](xyplot_temp-sweepi(_b.x1.xrsu.xsky130_fd_pr__res_xhigh_po_0p69.brend_i_)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__906d63d15d9e4df2b46e34b20351f79c.png "") |
 | :-- |
 |  |
 <br>
 
-| ![occtplot_temp-sweep_('tt',_-2)__8bde3970a962e2580e028ad19849a3af](occtplot_temp-sweep_('tt',_-2)__8bde3970a962e2580e028ad19849a3af.png "") |
+| ![occtplot_temp-sweep_('tt',_-2)__906d63d15d9e4df2b46e34b20351f79c](occtplot_temp-sweep_('tt',_-2)__906d63d15d9e4df2b46e34b20351f79c.png "") |
 | :-- |
 |  |
 <br>
 
 ## DC Performance (Monte Carlo)<br>
 
-| ![histplot_sink_ppgroup_('ff_mm',_-2),_('hh_mm',_-2),_('tt_mm',_-2),_('ll_mm',_-2),_('ss_mm',_-2)__bf8d5960147c361c103b5feb760fa26f](histplot_sink_ppgroup_('ff_mm',_-2),_('hh_mm',_-2),_('tt_mm',_-2),_('ll_mm',_-2),_('ss_mm',_-2)__bf8d5960147c361c103b5feb760fa26f.png "") |
+| ![histplot_sink_ppgroup_('ff_mm',_-2),_('hh_mm',_-2),_('tt_mm',_-2),_('ll_mm',_-2),_('ss_mm',_-2)__f74cff190629448d28eb1d4b1cdcd620](histplot_sink_ppgroup_('ff_mm',_-2),_('hh_mm',_-2),_('tt_mm',_-2),_('ll_mm',_-2),_('ss_mm',_-2)__f74cff190629448d28eb1d4b1cdcd620.png "") |
 | :-- |
 |  |
 <br>
 
-| ![histplot_source_ppgroup_('ff_mm',_-2),_('hh_mm',_-2),_('tt_mm',_-2),_('ll_mm',_-2),_('ss_mm',_-2)__bf8d5960147c361c103b5feb760fa26f](histplot_source_ppgroup_('ff_mm',_-2),_('hh_mm',_-2),_('tt_mm',_-2),_('ll_mm',_-2),_('ss_mm',_-2)__bf8d5960147c361c103b5feb760fa26f.png "") |
+| ![histplot_source_ppgroup_('ff_mm',_-2),_('hh_mm',_-2),_('tt_mm',_-2),_('ll_mm',_-2),_('ss_mm',_-2)__f74cff190629448d28eb1d4b1cdcd620](histplot_source_ppgroup_('ff_mm',_-2),_('hh_mm',_-2),_('tt_mm',_-2),_('ll_mm',_-2),_('ss_mm',_-2)__f74cff190629448d28eb1d4b1cdcd620.png "") |
 | :-- |
 |  |
 <br>
 
 ## AC Noise<br>
 
-| ![xyplot_frequencyonoise_spectrumgroup_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__125d9a1e8cbe2421d7e4a60e48fa607b](xyplot_frequencyonoise_spectrumgroup_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__125d9a1e8cbe2421d7e4a60e48fa607b.png "") |
+| ![xyplot_frequencyonoise_spectrumgroup_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__4423b8805896b25202139a69247a66c2](xyplot_frequencyonoise_spectrumgroup_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__4423b8805896b25202139a69247a66c2.png "") |
 | :-- |
 |  |
 <br>
 
-| ![xyplot_frequencyonoise_spectrumgroup_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__12afb12094ce8b829618fc3614404747](xyplot_frequencyonoise_spectrumgroup_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__12afb12094ce8b829618fc3614404747.png "") |
+| ![xyplot_frequencyonoise_spectrumgroup_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__4bb6032dbf720fbc2c0e904e0f8c4c0d](xyplot_frequencyonoise_spectrumgroup_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__4bb6032dbf720fbc2c0e904e0f8c4c0d.png "") |
+| :-- |
+|  |
+<br>
+
+## DC Performance (PEX)<br>
+
+| ![xyplot_temp-sweepi(visink)v(vdd)_('tt',_-2)__19012df5f9ad54199f1422249c8bc634](xyplot_temp-sweepi(visink)v(vdd)_('tt',_-2)__19012df5f9ad54199f1422249c8bc634.png "") |
+| :-- |
+|  |
+<br>
+
+| ![xyplot_temp-sweepi(visource)v(vdd)_('tt',_-2)__19012df5f9ad54199f1422249c8bc634](xyplot_temp-sweepi(visource)v(vdd)_('tt',_-2)__19012df5f9ad54199f1422249c8bc634.png "") |
+| :-- |
+|  |
+<br>
+
+| ![xyplot_temp-sweepi(visink)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__19012df5f9ad54199f1422249c8bc634](xyplot_temp-sweepi(visink)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__19012df5f9ad54199f1422249c8bc634.png "") |
+| :-- |
+|  |
+<br>
+
+| ![xyplot_temp-sweepi(visource)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__19012df5f9ad54199f1422249c8bc634](xyplot_temp-sweepi(visource)group_('ff',_-2),_('hh',_-2),_('tt',_-2),_('ll',_-2),_('ss',_-2)__19012df5f9ad54199f1422249c8bc634.png "") |
 | :-- |
 |  |
 <br>
