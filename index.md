@@ -1,3 +1,3 @@
-* [riosc](./riosc/Readme.md)
-* [vthref](./vthref/Readme.md)
-* [bmbg](./bmbg/Readme.md)
+* [riosc](riosc/Readme)
+* [vthref](vthref/Readme)
+* [bmbg](bmbg/Readme)
