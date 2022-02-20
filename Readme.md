@@ -1,2 +1,2 @@
-* [vthref](vthref/Readme.md)
-* [bmbg](bmbg/Readme.md)
+* [vthref](vthref/index.md)
+* [bmbg](bmbg/index.md)
