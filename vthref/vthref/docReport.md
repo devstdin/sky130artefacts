@@ -1,8 +1,8 @@
 # Vth Current Reference
 
-10 uA current reference.
+10 uA current reference with source- and sink-port.
 
-![placeholder](resources/img-placeholder.png "Placeholder")
+![vthref](resources/vthref.png "vthref")
 
 <br>
 
