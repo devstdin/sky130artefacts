@@ -2,7 +2,7 @@
 
 OpAmp used in LDO.
 
-![placeholder](resources/img-placeholder.png "Placeholder")
+![ldoota](resources/ldoota.png "ldoota")
 
 <br>
 

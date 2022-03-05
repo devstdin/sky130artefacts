@@ -1,10 +1,10 @@
-05.03.2022, 13:28:15
+05.03.2022, 14:43:36
 
 # LDO OP
 
 OpAmp used in LDO.
 
-![placeholder](resources/img-placeholder.png "Placeholder")
+![ldoota](resources/ldoota.png "ldoota")
 
 <br>
 
@@ -27,10 +27,10 @@ OpAmp used in LDO.
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Open-Loop Gain | 60 / 72.143 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.716167999999975,10.0,57.10807199999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.716167999999975" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="57.10807199999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 75.03 / 100 | dB | 2500/100.0%/0.0%/0.0% | Gain at 1Hz |
-| Phase Margin | 60 / 90.311 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="90.29544959999998,10.0,124.59475199999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="90.29544959999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="124.59475199999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 102.22 / 110 | deg | 2500/100.0%/0.0%/0.0% | Open-Loop |
-| Unity-Gain Bandwidth | 5.0 / 9.078 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="61.7279664,10.0,131.07316799999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="61.7279664" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="131.07316799999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 13.894 / 15.0 | MHz | 2500/100.0%/0.0%/0.0% |  |
-| 3-dB Bandwidth | 0.1 / 1.167 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.519505454545452,10.0,27.874749090909088,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.519505454545452" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="27.874749090909088" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.81 / 10.0 | kHz | 2500/100.0%/0.0%/0.0% |  |
+| Open-Loop Gain | 60 / 72.134 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.68074399999999,10.0,57.042624000000025,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.68074399999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="57.042624000000025" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 75.012 / 100 | dB | 2500/100.0%/0.0%/0.0% | Gain at 1Hz |
+| Phase Margin | 60 / 90.496 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="90.82781759999997,10.0,123.94329600000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="90.82781759999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="123.94329600000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 101.994 / 110 | deg | 2500/100.0%/0.0%/0.0% | Open-Loop |
+| Unity-Gain Bandwidth | 5.0 / 9.116 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="62.2744176,10.0,124.230288,10.0" style="stroke:green;stroke-width:2" /><circle cx="62.2744176" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="124.230288" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 13.419 / 15.0 | MHz | 2500/100.0%/0.0%/0.0% |  |
+| 3-dB Bandwidth | 0.1 / 1.161 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.434283636363638,10.0,27.756276363636363,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.434283636363638" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="27.756276363636363" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.802 / 10.0 | kHz | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -51,12 +51,12 @@ OpAmp used in LDO.
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| CMRR at 10Hz | 50 / 62.352 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="20.7868656,10.0,37.96458239999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="20.7868656" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="37.96458239999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 74.281 / 150 | dB | 2500/100.0%/0.0%/0.0% |  |
-| CMRR at 10MHz | 30 / 41.543 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="86.10679200000003,10.0,110.68903199999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="86.10679200000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="110.68903199999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 44.957 / 50 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10Hz | 40 / 40.043 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0690240000000015,10.0,5.079776000000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.0690240000000015" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="5.079776000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.3 / 130 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10MHz | -10 / -0.418 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="71.9900328,10.0,79.80595536000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="71.9900328" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="79.80595536000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.667 / 10 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR- at 10Hz | 30 / 40.643 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="79.6278,10.0,93.13442400000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="79.6278" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="93.13442400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.519 / 50 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR- at 10MHz | 20 / 27.713 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="58.530144000000014,10.0,76.279656,10.0" style="stroke:green;stroke-width:2" /><circle cx="58.530144000000014" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="76.279656" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 30.178 / 40 | dB | 2500/100.0%/0.0%/0.0% |  |
+| CMRR at 10Hz | 50 / 60.753 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.483672,10.0,129.364032,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.483672" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="129.364032" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 137.753 / 150 | dB | 2500/100.0%/0.0%/0.0% |  |
+| CMRR at 10MHz | 30 / 41.816 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="88.07570400000003,10.0,109.41859200000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="88.07570400000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="109.41859200000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 44.78 / 50 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10Hz | 40 / 40.014 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.022288000000003,10.0,5.074239999999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.022288000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="5.074239999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.296 / 130 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10MHz | -10 / -0.734 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="69.71831040000001,10.0,78.12164208,10.0" style="stroke:green;stroke-width:2" /><circle cx="69.71831040000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="78.12164208" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.434 / 10 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR- at 10Hz | 30 / 40.678 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="79.880232,10.0,90.721632,10.0" style="stroke:green;stroke-width:2" /><circle cx="79.880232" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.721632" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.184 / 50 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR- at 10MHz | 20 / 27.383 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="56.15716800000001,10.0,74.912232,10.0" style="stroke:green;stroke-width:2" /><circle cx="56.15716800000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="74.912232" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 29.988 / 40 | dB | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -73,8 +73,8 @@ OpAmp used in LDO.
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Negative Output Bound | -3 / -2.867 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="15.744000000000014,10.0,123.1728,10.0" style="stroke:green;stroke-width:2" /><circle cx="15.744000000000014" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="123.1728" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -1.748 / -1.5 | V | 2500/100.0%/0.0%/0.0% |  |
-| Positive Output Bound | 2.5 / 2.999 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="144.663328,10.0,146.73907199999996,10.0" style="stroke:green;stroke-width:2" /><circle cx="144.663328" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="146.73907199999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.999 / 3 | V | 2500/100.0%/0.0%/0.0% |  |
+| Negative Output Bound | -3 / -2.864 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="16.102080000000015,10.0,133.23072000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="16.102080000000015" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="133.23072000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -1.643 / -1.5 | V | 2500/100.0%/0.0%/0.0% |  |
+| Positive Output Bound | 2.5 / 2.999 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="144.65987200000004,10.0,146.74310400000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="144.65987200000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="146.74310400000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.999 / 3 | V | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -90,7 +90,7 @@ OpAmp used in LDO.
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Negative CM Input Bound | -3 / -2.125 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.01055999999998,10.0,96.19871999999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.01055999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.19871999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.029 / -1.5 | V | 2500/100.0%/0.0%/0.0% | Input transistor sat. |
+| Negative CM Input Bound | -3 / -2.122 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.24768,10.0,95.94816,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.24768" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="95.94816" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.032 / -1.5 | V | 2500/100.0%/0.0%/0.0% | Input transistor sat. |
 
 <br>
 
@@ -108,11 +108,63 @@ OpAmp used in LDO.
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -20.0 / 13.053 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="121.99105200000001,10.0,143.522724,10.0" style="stroke:green;stroke-width:2" /><circle cx="121.99105200000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="143.522724" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 19.034 / 20.0 | mV | 2500/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Positive) | 4.0 / 4.206 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="7.9443600000000005,10.0,50.267904,10.0" style="stroke:green;stroke-width:2" /><circle cx="7.9443600000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="50.267904" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.969 / 10.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Negative) | -10.0 / -3.268 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="124.17798,10.0,137.52102,10.0" style="stroke:green;stroke-width:2" /><circle cx="124.17798" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.52102" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.527 / -2.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
+| Input Offset | -20.0 / 10.136 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,142.90239864605567,17,142.90239864605567,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="72.95119932302784,10.0,72.95119932302784,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="108.4028868471343,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="108.4028868471343" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 21.172 / 20.0 | mV | 2500/98.0%/2.0%/0.0% |  |
+| Slew-Rate (Positive) | 4.0 / 4.214 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="8.146799999999999,10.0,43.144128,10.0" style="stroke:green;stroke-width:2" /><circle cx="8.146799999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="43.144128" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.673 / 10.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Negative) | -10.0 / -3.265 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="124.2219,10.0,137.29548,10.0" style="stroke:green;stroke-width:2" /><circle cx="124.2219" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.29548" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.539 / -2.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
+> **FAIL:** Specification violation for parameter "Input Offset":<br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:0 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:1 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:2 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:3 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:4 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:5 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:6 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:7 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:8 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:9 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:10 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:11 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:12 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:13 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:14 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:15 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:16 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:17 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:18 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:19 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:20 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:21 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:22 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:23 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:24 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:25 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:26 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:27 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:28 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:29 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:30 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:31 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:32 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:33 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:34 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:35 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:36 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:37 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:38 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:39 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:40 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:41 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:42 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:43 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:44 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:45 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:46 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:47 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:48 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_7/tt_mm/ldoota_tran_slew.csv Index:49 <br>
 
 ## Noise Specification<br>
 
@@ -135,7 +187,7 @@ OpAmp used in LDO.
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.019 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="12.3341664,10.0,19.215504,10.0" style="stroke:green;stroke-width:2" /><circle cx="12.3341664" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.215504" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.034 / 0.3 | % | 2500/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.019 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="11.948328,10.0,19.1321808,10.0" style="stroke:green;stroke-width:2" /><circle cx="11.948328" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.1321808" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.034 / 0.3 | % | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
 

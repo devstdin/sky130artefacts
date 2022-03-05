@@ -2,7 +2,7 @@
 
 1.8 V linear regulator.
 
-![placeholder](resources/img-placeholder.png "Placeholder")
+![ldo](resources/ldo.png "ldo")
 
 <br>
 
