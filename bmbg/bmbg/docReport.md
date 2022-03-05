@@ -2,7 +2,7 @@
 
 Beta-Multiplier Bandgap.
 
-![placeholder](resources/img-placeholder.png "Placeholder")
+![bmbg](resources/bmbg.png "bmbg")
 
 <br>
 

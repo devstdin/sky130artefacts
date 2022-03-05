@@ -2,7 +2,7 @@
 
 OTA for Beta-Multiplier Bandgap.
 
-![placeholder](resources/img-placeholder.png "Placeholder")
+![bmbgota](resources/bmbgota.png "bmbgota")
 
 <br>
 
