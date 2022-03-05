@@ -2,7 +2,7 @@
 
 Ring oscillator with enable pin.
 
-![placeholder](resources/img-placeholder.png "Placeholder")
+![riosc](resources/riosc.png "riosc")
 
 <br>
 

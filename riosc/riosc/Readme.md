@@ -1,10 +1,10 @@
-05.03.2022, 14:43:36
+05.03.2022, 15:06:40
 
 # Ring Oscillator
 
 Ring oscillator with enable pin.
 
-![placeholder](resources/img-placeholder.png "Placeholder")
+![riosc](resources/riosc.png "riosc")
 
 <br>
 
