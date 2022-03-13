@@ -41,13 +41,13 @@ Device classes bmbgota and bmbgota are equivalent.
 Flattening unmatched subcell sky130_fd_pr__rf_pnp_05v5_W3p40L3p40 in circuit bmbg (0)(10 instances)
 Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_T6AZ92 in circuit bmbg (0)(12 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_XYTFBH in circuit bmbg (0)(14 instances)
-Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_0p69_QXZVVB in circuit bmbg (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_0p69_QXZVVB in circuit bmbg (0)(4 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_ZL3LRV in circuit bmbg (0)(5 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_Y6SSWD in circuit bmbg (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_AWLLPD in circuit bmbg (0)(3 instances)
 
 Class bmbg (0):  Merged 24 parallel devices.
-Class bmbg (0):  Merged 10 series devices.
+Class bmbg (0):  Merged 12 series devices.
 Class bmbg_xschem.spice (1):  Merged 11 parallel devices.
 Subcircuit summary:
 Circuit 1: bmbg                            |Circuit 2: bmbg_xschem.spice               
@@ -56,7 +56,7 @@ sky130_fd_pr__pnp_05v5_W3p40L3p40 (10->3)  |sky130_fd_pr__pnp_05v5_W3p40L3p40 (1
 sky130_fd_pr__res_xhigh_po_1p41 (15->3)    |sky130_fd_pr__res_xhigh_po_1p41 (6->3)     
 sky130_fd_pr__pfet_g5v0d10v5 (20->6)       |sky130_fd_pr__pfet_g5v0d10v5 (11->6)       
 bmbgota (1)                                |bmbgota (1)                                
-sky130_fd_pr__res_xhigh_po_0p69 (2->1)     |sky130_fd_pr__res_xhigh_po_0p69 (1)        
+sky130_fd_pr__res_xhigh_po_0p69 (4->1)     |sky130_fd_pr__res_xhigh_po_0p69 (1)        
 Number of devices: 14                      |Number of devices: 14                      
 Number of nets: 10                         |Number of nets: 10                         
 ---------------------------------------------------------------------------------------
