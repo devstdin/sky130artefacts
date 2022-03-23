@@ -67,8 +67,8 @@ Subcircuit pins:
 Circuit 1: bmbg                            |Circuit 2: bmbg_xschem.spice               
 -------------------------------------------|-------------------------------------------
 IB                                         |(no matching pin)                          
-VREF                                       |(no matching pin)                          
 VDD                                        |(no matching pin)                          
+VREF                                       |(no matching pin)                          
 VSS                                        |(no matching pin)                          
 VDD                                        |(no matching pin)                          
 VSS                                        |(no matching pin)                          
