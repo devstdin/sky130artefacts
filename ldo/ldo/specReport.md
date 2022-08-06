@@ -14,10 +14,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean LDO Voltage | 1.7 / 1.763 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.508320000000076,10.0,62.70672000000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.508320000000076" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="62.70672000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.783 / 1.9 | V | 1000/100.0%/0.0%/0.0% |  |
-| LDO Voltage Curvature | 0.0 / 0.926 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.533160288,10.0,8.73994944,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.533160288" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="8.73994944" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 9.965 / 250.0 | mV | 1000/100.0%/0.0%/0.0% |  |
-| LDO Voltage at 20°C | 1.7 / 1.763 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.10584000000009,10.0,61.43808000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.10584000000009" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.43808000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.781 / 1.9 | V | 800/100.0%/0.0%/0.0% |  |
-| LDO Voltage Sensitivity at 20°C | -100.0 / 2.589 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="76.8643104,10.0,113.5587504,10.0" style="stroke:green;stroke-width:2" /><circle cx="76.8643104" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="113.5587504" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 53.554 / 100.0 | uV/°C | 1000/100.0%/0.0%/0.0% |  |
+| Mean LDO Voltage | 1.7 / 1.764 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.396080000000104,10.0,62.76936000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.396080000000104" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="62.76936000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.783 / 1.9 | V | 1000/100.0%/0.0%/0.0% |  |
+| LDO Voltage Curvature | 0.0 / 1.443 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.830923776,10.0,8.555196864,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.830923776" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="8.555196864" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 9.644 / 250.0 | mV | 1000/100.0%/0.0%/0.0% |  |
+| LDO Voltage at 20°C | 1.7 / 1.764 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.103760000000015,10.0,61.66488000000007,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.103760000000015" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.66488000000007" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.781 / 1.9 | V | 800/100.0%/0.0%/0.0% |  |
+| LDO Voltage Sensitivity at 20°C | -100.0 / 4.891 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="78.52130184,10.0,112.2539448,10.0" style="stroke:green;stroke-width:2" /><circle cx="78.52130184" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="112.2539448" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 51.742 / 100.0 | uV/°C | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -36,10 +36,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean LDO Voltage | 1.7 / 1.765 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.95696000000001,10.0,63.14736000000009,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.95696000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="63.14736000000009" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.784 / 1.9 | V | 998/100.0%/0.0%/0.0% |  |
-| LDO Voltage Curvature | 0.0 / 13.68 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="81.7957056,10.0,88.4610624,10.0" style="stroke:green;stroke-width:2" /><circle cx="81.7957056" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.4610624" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 14.837 / 25.0 | mV | 998/100.0%/0.0%/0.0% |  |
-| LDO Voltage at 3.3V | 1.7 / 1.764 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.392480000000084,10.0,62.57856000000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.392480000000084" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="62.57856000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.783 / 1.9 | V | 998/100.0%/0.0%/0.0% |  |
-| LDO Voltage Sensitivity at 3.3V | -20.0 / 4.1 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.761692,10.0,90.6748968,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.761692" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.6748968" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.354 / 20.0 | mV/V | 998/100.0%/0.0%/0.0% |  |
+| Mean LDO Voltage | 1.7 / 1.766 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="50.38896000000012,10.0,62.225759999999966,10.0" style="stroke:green;stroke-width:2" /><circle cx="50.38896000000012" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="62.225759999999966" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.782 / 1.9 | V | 1000/100.0%/0.0%/0.0% |  |
+| LDO Voltage Curvature | 0.0 / 13.702 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="81.92208000000001,10.0,88.50650879999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="81.92208000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.50650879999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 14.845 / 25.0 | mV | 1000/100.0%/0.0%/0.0% |  |
+| LDO Voltage at 3.3V | 1.7 / 1.765 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.78848000000012,10.0,61.615199999999994,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.78848000000012" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.615199999999994" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.781 / 1.9 | V | 1000/100.0%/0.0%/0.0% |  |
+| LDO Voltage Sensitivity at 3.3V | -20.0 / 4.104 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.7756708,10.0,90.66240839999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.7756708" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.66240839999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.351 / 20.0 | mV/V | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -58,10 +58,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean LDO Voltage | 1.7 / 1.773 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="55.79832000000003,10.0,66.68472000000006,10.0" style="stroke:green;stroke-width:2" /><circle cx="55.79832000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="66.68472000000006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.788 / 1.9 | V | 975/100.0%/0.0%/0.0% |  |
-| LDO Voltage Curvature | 0.0 / 1.135 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.54041664,10.0,12.66872,10.0" style="stroke:green;stroke-width:2" /><circle cx="9.54041664" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="12.66872" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.331 / 25.0 | mV | 975/100.0%/0.0%/0.0% |  |
-| LDO Voltage at 100uA | 1.7 / 1.774 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="56.0035200000001,10.0,66.89927999999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="56.0035200000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="66.89927999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.789 / 1.9 | V | 975/100.0%/0.0%/0.0% |  |
-| LDO Voltage Sensitivity at 100uA | -10 / -3.595 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.119240000000005,10.0,53.16888,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.119240000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="53.16888" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -3.032 / 10 | V/A | 975/100.0%/0.0%/0.0% |  |
+| Mean LDO Voltage | 1.7 / 1.771 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="53.86727999999998,10.0,66.94824000000011,10.0" style="stroke:green;stroke-width:2" /><circle cx="53.86727999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="66.94824000000011" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.789 / 1.9 | V | 975/100.0%/0.0%/0.0% |  |
+| LDO Voltage Curvature | 0.0 / 1.135 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.53493312,10.0,12.63523712,10.0" style="stroke:green;stroke-width:2" /><circle cx="9.53493312" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="12.63523712" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.326 / 25.0 | mV | 975/100.0%/0.0%/0.0% |  |
+| LDO Voltage at 100uA | 1.7 / 1.771 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="54.069599999999966,10.0,67.15272000000007,10.0" style="stroke:green;stroke-width:2" /><circle cx="54.069599999999966" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="67.15272000000007" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.789 / 1.9 | V | 975/100.0%/0.0%/0.0% |  |
+| LDO Voltage Sensitivity at 100uA | -10 / -3.58 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.221984,10.0,53.190048,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.221984" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="53.190048" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -3.029 / 10 | V/A | 975/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -87,8 +87,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| PSRR+ at 10 Hz | -120 / -43.886 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="85.31111384615384,10.0,88.86387692307692,10.0" style="stroke:green;stroke-width:2" /><circle cx="85.31111384615384" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.86387692307692" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -42.484 / 10 | dB | 993/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10 MHz | -100 / 1.521 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="122.82467439999999,10.0,125.97561959999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="122.82467439999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="125.97561959999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.48 / 20 | dB | 993/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 Hz | -120 / -43.943 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="85.24819692307693,10.0,88.8927876923077,10.0" style="stroke:green;stroke-width:2" /><circle cx="85.24819692307693" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.8927876923077" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -42.458 / 10 | dB | 987/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 MHz | -100 / 1.55 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="122.8594804,10.0,125.99161319999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="122.8594804" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="125.99161319999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.493 / 20 | dB | 987/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -104,7 +104,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Ripple | 0.0 / 19.966 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.5028864,10.0,78.7482624,10.0" style="stroke:green;stroke-width:2" /><circle cx="60.5028864" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="78.7482624" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 26.301 / 50.0 | mV | 985/100.0%/0.0%/0.0% | Ripple from 1V Input Voltage Step |
+| Output Ripple | 0.0 / 20.046 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.732019199999996,10.0,79.450752,10.0" style="stroke:green;stroke-width:2" /><circle cx="60.732019199999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="79.450752" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 26.545 / 50.0 | mV | 984/100.0%/0.0%/0.0% | Ripple from 1V Input Voltage Step |
 
 <br>
 
@@ -120,7 +120,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Ripple | 0.0 / 1.294 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="6.72663936,10.0,10.52537376,10.0" style="stroke:green;stroke-width:2" /><circle cx="6.72663936" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="10.52537376" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.613 / 50.0 | mV | 999/100.0%/0.0%/0.0% | Ripple from 50->250 uA Load Step |
+| Output Ripple | 0.0 / 1.848 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="8.32299168,10.0,10.491024,10.0" style="stroke:green;stroke-width:2" /><circle cx="8.32299168" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="10.491024" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.601 / 50.0 | mV | 995/100.0%/0.0%/0.0% | Ripple from 50->250 uA Load Step |
 
 <br>
 
@@ -136,7 +136,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Loopgain PM | 45 / 48.57 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="6.807786666666667,10.0,20.853866666666665,10.0" style="stroke:green;stroke-width:2" /><circle cx="6.807786666666667" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="20.853866666666665" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 61.738 / 180 | deg | 1000/100.0%/0.0%/0.0% |  |
+| Loopgain PM | 45 / 48.342 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="6.564693333333336,10.0,20.28597333333333,10.0" style="stroke:green;stroke-width:2" /><circle cx="6.564693333333336" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="20.28597333333333" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 61.206 / 180 | deg | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -173,10 +173,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean LDO Voltage | 1.7 / 1.764 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.97848000000009,10.0,63.223680000000044,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.97848000000009" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="63.223680000000044" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.784 / 1.9 | V | 993/100.0%/0.0%/0.0% |  |
-| LDO Voltage Curvature | 0.0 / 1.607 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.925896384,10.0,8.386440384,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.925896384" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="8.386440384" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 9.351 / 250.0 | mV | 993/100.0%/0.0%/0.0% |  |
-| LDO Voltage at 20°C | 1.7 / 1.764 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.77112000000004,10.0,59.754720000000056,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.77112000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="59.754720000000056" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.779 / 1.9 | V | 793/100.0%/0.0%/0.0% |  |
-| LDO Voltage Sensitivity at 20°C | -100.0 / 6.481 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="79.66614864,10.0,110.7783408,10.0" style="stroke:green;stroke-width:2" /><circle cx="79.66614864" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="110.7783408" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 49.692 / 100.0 | uV/°C | 993/100.0%/0.0%/0.0% |  |
+| Mean LDO Voltage | 1.7 / 1.766 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="50.252160000000025,10.0,61.425119999999964,10.0" style="stroke:green;stroke-width:2" /><circle cx="50.252160000000025" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.425119999999964" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.781 / 1.9 | V | 994/100.0%/0.0%/0.0% |  |
+| LDO Voltage Curvature | 0.0 / 1.278 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.735905088,10.0,8.18266944,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.735905088" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="8.18266944" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 8.998 / 250.0 | mV | 994/100.0%/0.0%/0.0% |  |
+| LDO Voltage at 20°C | 1.7 / 1.765 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.795680000000004,10.0,60.28752000000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.795680000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="60.28752000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.78 / 1.9 | V | 795/100.0%/0.0%/0.0% |  |
+| LDO Voltage Sensitivity at 20°C | -100.0 / 4.777 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="78.43924992,10.0,109.4865312,10.0" style="stroke:green;stroke-width:2" /><circle cx="78.43924992" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="109.4865312" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 47.898 / 100.0 | uV/°C | 994/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -195,10 +195,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean LDO Voltage | 1.7 / 1.766 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="50.43935999999997,10.0,62.51664000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="50.43935999999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="62.51664000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.783 / 1.9 | V | 998/100.0%/0.0%/0.0% |  |
-| LDO Voltage Curvature | 0.0 / 13.677 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="81.77796479999999,10.0,88.1018112,10.0" style="stroke:green;stroke-width:2" /><circle cx="81.77796479999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.1018112" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 14.775 / 25.0 | mV | 998/100.0%/0.0%/0.0% |  |
-| LDO Voltage at 3.3V | 1.7 / 1.765 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.792079999999984,10.0,61.85928000000006,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.792079999999984" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.85928000000006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.782 / 1.9 | V | 998/100.0%/0.0%/0.0% |  |
-| LDO Voltage Sensitivity at 3.3V | -20.0 / 4.098 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.754456,10.0,90.6037536,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.754456" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.6037536" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.334 / 20.0 | mV/V | 998/100.0%/0.0%/0.0% |  |
+| Mean LDO Voltage | 1.7 / 1.765 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.58328000000005,10.0,61.97232000000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.58328000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.97232000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.782 / 1.9 | V | 999/100.0%/0.0%/0.0% |  |
+| LDO Voltage Curvature | 0.0 / 13.664 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="81.7072896,10.0,88.2925248,10.0" style="stroke:green;stroke-width:2" /><circle cx="81.7072896" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.2925248" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 14.808 / 25.0 | mV | 999/100.0%/0.0%/0.0% |  |
+| LDO Voltage at 3.3V | 1.7 / 1.764 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.012320000000024,10.0,61.362480000000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.012320000000024" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.362480000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.781 / 1.9 | V | 999/100.0%/0.0%/0.0% |  |
+| LDO Voltage Sensitivity at 3.3V | -20.0 / 4.097 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.7483252,10.0,90.6451464,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.7483252" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.6451464" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.346 / 20.0 | mV/V | 999/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -217,10 +217,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean LDO Voltage | 1.7 / 1.773 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="55.25832000000001,10.0,71.70312,10.0" style="stroke:green;stroke-width:2" /><circle cx="55.25832000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="71.70312" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.795 / 1.9 | V | 980/100.0%/0.0%/0.0% |  |
-| LDO Voltage Curvature | 0.0 / 1.137 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.55051392,10.0,13.01785664,10.0" style="stroke:green;stroke-width:2" /><circle cx="9.55051392" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="13.01785664" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.392 / 25.0 | mV | 975/100.0%/0.0%/0.0% |  |
-| LDO Voltage at 100uA | 1.7 / 1.773 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="55.4613600000001,10.0,68.106,10.0" style="stroke:green;stroke-width:2" /><circle cx="55.4613600000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="68.106" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.79 / 1.9 | V | 979/100.0%/0.0%/0.0% |  |
-| LDO Voltage Sensitivity at 100uA | -10 / -3.685 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.467136,10.0,53.123592,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.467136" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="53.123592" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -3.038 / 10 | V/A | 988/100.0%/0.0%/0.0% |  |
+| Mean LDO Voltage | 1.7 / 1.772 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="54.611040000000024,10.0,67.75392000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="54.611040000000024" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="67.75392000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.79 / 1.9 | V | 976/100.0%/0.0%/0.0% |  |
+| LDO Voltage Curvature | 0.0 / 1.126 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.48801792,10.0,12.68917376,10.0" style="stroke:green;stroke-width:2" /><circle cx="9.48801792" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="12.68917376" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.335 / 25.0 | mV | 974/100.0%/0.0%/0.0% |  |
+| LDO Voltage at 100uA | 1.7 / 1.772 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="54.81480000000005,10.0,67.9512000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="54.81480000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="67.9512000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.79 / 1.9 | V | 976/100.0%/0.0%/0.0% |  |
+| LDO Voltage Sensitivity at 100uA | -10 / -3.685 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.46692,10.0,53.14728,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.46692" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="53.14728" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -3.035 / 10 | V/A | 992/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -228,8 +228,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Noise at 10 Hz | 0.0 / 1.789 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="5.57621904,10.0,7.76445152,10.0" style="stroke:green;stroke-width:2" /><circle cx="5.57621904" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="7.76445152" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.92 / 100.0 | uV/sqrt(Hz) | 5/100.0%/0.0%/0.0% |  |
-| Output Noise at 10 kHz | 0.0 / 0.092 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.2638840032,10.0,5.2809663488,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.2638840032" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="5.2809663488" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.098 / 50.0 | uV/sqrt(Hz) | 5/100.0%/0.0%/0.0% |  |
+| Output Noise at 10 Hz | 0.0 / 1.789 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="5.57621904,10.0,7.76550416,10.0" style="stroke:green;stroke-width:2" /><circle cx="5.57621904" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="7.76550416" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.92 / 100.0 | uV/sqrt(Hz) | 5/100.0%/0.0%/0.0% |  |
+| Output Noise at 10 kHz | 0.0 / 0.092 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.2638838304,10.0,5.2810722176,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.2638838304" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="5.2810722176" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.098 / 50.0 | uV/sqrt(Hz) | 5/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -238,7 +238,7 @@
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
 | PSRR+ at 10 Hz | -80 / -43.792 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="133.34844,10.0,137.6544,10.0" style="stroke:green;stroke-width:2" /><circle cx="133.34844" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.6544" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -42.596 / -40 | dB | 5/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10 MHz | -10 / 3.872 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="69.5871312,10.0,73.2536192,10.0" style="stroke:green;stroke-width:2" /><circle cx="69.5871312" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="73.2536192" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.22 / 20 | dB | 5/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 MHz | -10 / 2.704 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="63.980404799999995,10.0,66.7056048,10.0" style="stroke:green;stroke-width:2" /><circle cx="63.980404799999995" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="66.7056048" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 3.272 / 20 | dB | 5/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -246,8 +246,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| PSRR+ at 10 Hz | -120 / -43.886 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="85.31144615384615,10.0,88.86708923076924,10.0" style="stroke:green;stroke-width:2" /><circle cx="85.31144615384615" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.86708923076924" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -42.481 / 10 | dB | 993/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10 MHz | -100 / 3.692 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="125.42994399999999,10.0,128.3769168,10.0" style="stroke:green;stroke-width:2" /><circle cx="125.42994399999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="128.3769168" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.481 / 20 | dB | 993/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 Hz | -120 / -43.911 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="85.28364307692308,10.0,88.87107692307694,10.0" style="stroke:green;stroke-width:2" /><circle cx="85.28364307692308" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.87107692307694" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -42.478 / 10 | dB | 990/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 MHz | -100 / 2.562 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="124.07390199999999,10.0,127.03329839999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="124.07390199999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="127.03329839999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 3.361 / 20 | dB | 990/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -255,7 +255,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Ripple | 0.0 / 22.03 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="66.4456224,10.0,78.9780288,10.0" style="stroke:green;stroke-width:2" /><circle cx="66.4456224" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="78.9780288" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 26.381 / 50.0 | mV | 5/100.0%/0.0%/0.0% | Ripple from 1V Input Voltage Step |
+| Output Ripple | 0.0 / 21.686 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="65.4569472,10.0,78.01752,10.0" style="stroke:green;stroke-width:2" /><circle cx="65.4569472" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="78.01752" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 26.048 / 50.0 | mV | 5/100.0%/0.0%/0.0% | Ripple from 1V Input Voltage Step |
 
 <br>
 
@@ -263,7 +263,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Ripple | 0.0 / 21.026 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="63.554159999999996,10.0,82.5631392,10.0" style="stroke:green;stroke-width:2" /><circle cx="63.554159999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="82.5631392" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 27.626 / 50.0 | mV | 975/100.0%/0.0%/0.0% | Ripple from 1V Input Voltage Step |
+| Output Ripple | 0.0 / 20.529 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="62.1245856,10.0,81.4176192,10.0" style="stroke:green;stroke-width:2" /><circle cx="62.1245856" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="81.4176192" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 27.228 / 50.0 | mV | 978/100.0%/0.0%/0.0% | Ripple from 1V Input Voltage Step |
 
 <br>
 
@@ -271,7 +271,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Ripple | 0.0 / 2.235 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.43639392,10.0,12.5992256,10.0" style="stroke:green;stroke-width:2" /><circle cx="9.43639392" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="12.5992256" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.639 / 50.0 | mV | 5/100.0%/0.0%/0.0% | Ripple from 50->250 uA Load Step |
+| Output Ripple | 0.0 / 2.064 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="8.945474879999999,10.0,12.352835840000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="8.945474879999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="12.352835840000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.553 / 50.0 | mV | 5/100.0%/0.0%/0.0% | Ripple from 50->250 uA Load Step |
 
 <br>
 
@@ -279,7 +279,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Ripple | 0.0 / 2.129 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.130151999999999,10.0,13.0114112,10.0" style="stroke:green;stroke-width:2" /><circle cx="9.130151999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="13.0114112" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.782 / 50.0 | mV | 987/100.0%/0.0%/0.0% | Ripple from 50->250 uA Load Step |
+| Output Ripple | 0.0 / 1.965 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="8.65929504,10.0,10.74756576,10.0" style="stroke:green;stroke-width:2" /><circle cx="8.65929504" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="10.74756576" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.69 / 50.0 | mV | 987/100.0%/0.0%/0.0% | Ripple from 50->250 uA Load Step |
 
 <br>
 
@@ -287,119 +287,14 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Loopgain PM | 45 / 42.144 | <svg height="20" width="150"><polyline points="5.983389200768045,3,5.983389200768045,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="76.49169460038402,10.0,76.49169460038402,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,15.539719316011405,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="15.539719316011405" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 54.149 / 180 | deg | 5/80.0%/20.0%/0.0% |  |
+| Loopgain PM | 45 / 46.727 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.841706666666664,10.0,17.536746666666666,10.0" style="stroke:green;stroke-width:2" /><circle cx="4.841706666666664" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="17.536746666666666" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 58.628 / 180 | deg | 5/100.0%/0.0%/0.0% |  |
 
 <br>
-
-> **FAIL:** Specification violation for parameter "Loopgain PM":<br>
-> **FAIL:** group:ll file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_0/ll/ldo_ac_loop.csv Index:0 <br>
 
 # AC Loopgain PM Specification (Monte Carlo) [PEX]<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Loopgain PM | 45 / 41.003 | <svg height="20" width="150"><polyline points="7.140866349633445,3,7.140866349633445,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="77.07043317481671,10.0,77.07043317481671,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,17.038956236465538,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="17.038956236465538" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 54.554 / 180 | deg | 1000/80.0%/20.0%/0.0% |  |
+| Loopgain PM | 45 / 46.309 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.396053333333331,10.0,17.77461333333333,10.0" style="stroke:green;stroke-width:2" /><circle cx="4.396053333333331" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="17.77461333333333" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 58.851 / 180 | deg | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
-
-> **FAIL:** Specification violation for parameter "Loopgain PM":<br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:0 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:1 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:2 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:3 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:4 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:5 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:6 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:7 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:8 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:9 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:10 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:11 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:12 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:13 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:14 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:15 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:16 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:17 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:18 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:19 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:20 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:21 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:22 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:23 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:24 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:25 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:26 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:27 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:28 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:29 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:30 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:31 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:32 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:33 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:34 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:35 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:36 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:37 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:38 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:39 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:40 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:41 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:42 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:43 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:44 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:45 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:46 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:47 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:48 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_2/ll_mm/ldo_ac_loop.csv Index:49 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:0 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:1 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:2 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:3 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:4 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:5 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:6 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:7 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:8 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:9 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:10 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:11 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:12 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:13 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:14 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:15 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:16 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:17 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:18 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:19 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:20 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:21 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:22 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:23 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:24 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:25 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:26 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:27 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:28 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:29 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:30 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:31 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:32 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:33 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:34 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:35 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:36 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:37 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:38 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:39 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:40 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:41 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:42 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:43 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:44 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:45 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:46 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:47 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:48 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldo/ldo_tb.8_ldo_ext/batch_1/ll_mm/ldo_ac_loop.csv Index:49 <br>
