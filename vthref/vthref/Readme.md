@@ -1,4 +1,4 @@
-06.08.2022, 15:44:52
+17.09.2022, 20:08:27
 
 # Vth Current Reference
 
@@ -30,8 +30,8 @@ LVS-state: Netlists match uniquely.<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Current Curvature (Sink) | 0.0 / 0.191 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.4841136,10.0,47.612870400000006,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.4841136" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.612870400000006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.31 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
-| Output Current Curvature (Source) | 0.0 / 0.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.7878096,10.0,47.211528,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.7878096" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.211528" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.307 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Sink) | 0.0 / 0.191 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.5239152,10.0,47.3101824,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.5239152" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.3101824" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.308 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Source) | 0.0 / 0.194 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.8981712,10.0,47.3664432,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.8981712" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.3664432" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.308 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -48,8 +48,8 @@ LVS-state: Netlists match uniquely.<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Current Curvature (Sink) | 0.0 / 0.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.7816608,10.0,45.9992496,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.7816608" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="45.9992496" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.299 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
-| Output Current Curvature (Source) | 0.0 / 0.196 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.216036799999998,10.0,48.5911776,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.216036799999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="48.5911776" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.317 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Sink) | 0.0 / 0.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.819777600000002,10.0,45.772464,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.819777600000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="45.772464" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.297 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Source) | 0.0 / 0.196 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.170936,10.0,47.9622432,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.170936" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.9622432" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.312 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
 
 <br>
 

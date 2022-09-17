@@ -1,4 +1,4 @@
-06.08.2022, 15:44:52
+17.09.2022, 20:08:27
 
 # Beta-Multiplier Bandgap
 
@@ -39,9 +39,8 @@ LVS-state: Netlists match uniquely.<br>
 | Reference Voltage Sensitivity at 20°C | -1200.0 / -1723.18 | <svg height="20" width="150"><polyline points="28.772590124453508,3,28.772590124453508,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.88629506222676,10.0,87.88629506222676,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,144.89299051033464,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="144.89299051033464" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1157.228 / 1200.0 | uV/°C | 2500/96.2%/3.8%/0.0% |  |
 | Max. Supply Current | -85.0 / -83.703 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="15.455040000000109,10.0,97.25087999999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="15.455040000000109" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="97.25087999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.182 / -70.0 | uA | 2403/100.0%/0.0%/0.0% |  |
 
-<details>
-  <summary>Show specification violation details</summary>
-  
+<br>
+
 > **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/hh_mm/dc.csv Index:31 vsup:5.0 <br>
 > **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_9/ss_mm/dc.csv Index:34 vsup:5.0 <br>
@@ -178,8 +177,6 @@ LVS-state: Netlists match uniquely.<br>
 > **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/ff_mm/dc.csv Index:37 vsup:5.0 <br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/hh_mm/dc.csv Index:17 vsup:5.0 <br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/hh_mm/dc.csv Index:43 vsup:5.0 <br>
-</details>
-<br>
 
 ## Reference Voltage Curvature vs VDD <br>
 
