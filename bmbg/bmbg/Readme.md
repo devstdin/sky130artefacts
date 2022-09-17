@@ -41,6 +41,7 @@ LVS-state: Netlists match uniquely.<br>
 | Max. Supply Current | -85.0 / -83.105 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="21.19008000000006,10.0,96.94175999999996,10.0" style="stroke:green;stroke-width:2" /><circle cx="21.19008000000006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.94175999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.214 / -70.0 | uA | 2418/100.0%/0.0%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
+  
 > **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
 > **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/ll_mm/dc.csv Index:18 vsup:5.0 <br>
 > **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/ss_mm/dc.csv Index:36 vsup:5.0 <br>
