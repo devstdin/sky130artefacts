@@ -40,7 +40,9 @@ LVS-state: Netlists match uniquely.<br>
 | Max. Supply Current | -85.0 / -83.703 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="15.455040000000109,10.0,97.25087999999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="15.455040000000109" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="97.25087999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.182 / -70.0 | uA | 2403/100.0%/0.0%/0.0% |  |
 
 <br>
-
+<details>
+  <summary>Specification Violation Details</summary>
+  
 > **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/hh_mm/dc.csv Index:31 vsup:5.0 <br>
 > **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_9/ss_mm/dc.csv Index:34 vsup:5.0 <br>
@@ -177,6 +179,7 @@ LVS-state: Netlists match uniquely.<br>
 > **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/ff_mm/dc.csv Index:37 vsup:5.0 <br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/hh_mm/dc.csv Index:17 vsup:5.0 <br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/hh_mm/dc.csv Index:43 vsup:5.0 <br>
+</details>
 
 ## Reference Voltage Curvature vs VDD <br>
 
