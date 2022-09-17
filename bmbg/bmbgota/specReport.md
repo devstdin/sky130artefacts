@@ -10,16 +10,18 @@
 
 <br>
 
+
 # AC Open-Loop Specification (Monte Carlo) <br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Open-Loop Gain | 90 / 96.272 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.158543999999985,10.0,51.87135200000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.158543999999985" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="51.87135200000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 96.51 / 110 | dB | 2500/100.0%/0.0%/0.0% | Gain at 1Hz |
-| Phase Margin | 60 / 93.596 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="99.7570848,10.0,124.983552,10.0" style="stroke:green;stroke-width:2" /><circle cx="99.7570848" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="124.983552" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 102.355 / 110 | deg | 2500/100.0%/0.0%/0.0% | Open-Loop |
-| Unity-Gain Bandwidth | 25.0 / 56.86 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="56.97475764705882,10.0,126.2156668235294,10.0" style="stroke:green;stroke-width:2" /><circle cx="56.97475764705882" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="126.2156668235294" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 97.731 / 110.0 | MHz | 2500/100.0%/0.0%/0.0% |  |
-| 3-dB Bandwidth | 0.1 / 0.419 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="7.637236363636363,10.0,10.120026181818183,10.0" style="stroke:green;stroke-width:2" /><circle cx="7.637236363636363" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="10.120026181818183" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.59 / 10.0 | kHz | 2500/100.0%/0.0%/0.0% |  |
+| Open-Loop Gain | 90 / 96.259 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.06566399999997,10.0,51.99828800000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.06566399999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="51.99828800000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 96.528 / 110 | dB | 2500/100.0%/0.0%/0.0% | Gain at 1Hz |
+| Phase Margin | 60 / 93.558 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="99.6459744,10.0,124.20019199999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="99.6459744" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="124.20019199999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 102.083 / 110 | deg | 2500/100.0%/0.0%/0.0% | Open-Loop |
+| Unity-Gain Bandwidth | 25.0 / 56.646 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="56.611996235294114,10.0,124.30361788235294,10.0" style="stroke:green;stroke-width:2" /><circle cx="56.611996235294114" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="124.30361788235294" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 96.603 / 110.0 | MHz | 2500/100.0%/0.0%/0.0% |  |
+| 3-dB Bandwidth | 0.1 / 0.421 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="7.6638981818181815,10.0,10.041268363636364,10.0" style="stroke:green;stroke-width:2" /><circle cx="7.6638981818181815" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="10.041268363636364" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.584 / 10.0 | kHz | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
 
 # CMRR/PSRR Specification <br>
 
@@ -34,18 +36,20 @@
 
 <br>
 
+
 # CMRR/PSRR Specification (Monte Carlo) <br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| CMRR at 10Hz | 50 / 64.933 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="24.503577600000007,10.0,85.797552,10.0" style="stroke:green;stroke-width:2" /><circle cx="24.503577600000007" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="85.797552" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 107.498 / 150 | dB | 2500/100.0%/0.0%/0.0% |  |
-| CMRR at 10MHz | 35 / 60.078 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="68.659392,10.0,136.4330967272727,10.0" style="stroke:green;stroke-width:2" /><circle cx="68.659392" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="136.4330967272727" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 85.964 / 90 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10Hz | 40 / 66.626 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="45.601072,10.0,126.41088,10.0" style="stroke:green;stroke-width:2" /><circle cx="45.601072" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="126.41088" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 117.132 / 130 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10MHz | 35 / 51.46 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="70.72003199999999,10.0,89.12290285714286,10.0" style="stroke:green;stroke-width:2" /><circle cx="70.72003199999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="89.12290285714286" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 55.933 / 70 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR- at 10Hz | 50 / 82.247 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="69.3369737142857,10.0,82.20078171428572,10.0" style="stroke:green;stroke-width:2" /><circle cx="69.3369737142857" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="82.20078171428572" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 88.5 / 120 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR- at 10MHz | 5 / 9.711 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.2213472,10.0,68.79839999999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.2213472" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="68.79839999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 11.854 / 20 | dB | 2500/100.0%/0.0%/0.0% |  |
+| CMRR at 10Hz | 50 / 63.415 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="22.3175712,10.0,78.08217599999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="22.3175712" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="78.08217599999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 102.14 / 150 | dB | 2500/100.0%/0.0%/0.0% |  |
+| CMRR at 10MHz | 35 / 61.83 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="73.2459229090909,10.0,130.8933381818182,10.0" style="stroke:green;stroke-width:2" /><circle cx="73.2459229090909" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="130.8933381818182" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 83.848 / 90 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10Hz | 40 / 62.174 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="38.477808,10.0,112.6144,10.0" style="stroke:green;stroke-width:2" /><circle cx="38.477808" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="112.6144" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 108.509 / 130 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10MHz | 35 / 51.318 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="70.1358034285714,10.0,91.7577737142857,10.0" style="stroke:green;stroke-width:2" /><circle cx="70.1358034285714" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="91.7577737142857" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 56.573 / 70 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR- at 10Hz | 50 / 82.171 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="69.181248,10.0,78.02704457142856,10.0" style="stroke:green;stroke-width:2" /><circle cx="69.181248" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="78.02704457142856" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 86.471 / 120 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR- at 10MHz | 5 / 9.816 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.232975999999994,10.0,69.454752,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.232975999999994" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="69.454752" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 11.922 / 20 | dB | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
 
 # Output Range Specification <br>
 
@@ -56,14 +60,16 @@
 
 <br>
 
+
 # Output Range Specification (Monte Carlo) <br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Negative Output Bound | -2.5 / -2.264 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="70.9392,10.0,74.82143999999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="70.9392" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="74.82143999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.251 / -2 | V | 2500/100.0%/0.0%/0.0% |  |
-| Positive Output Bound | 2 / 2.093 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="29.784863999999985,10.0,39.54374400000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="29.784863999999985" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="39.54374400000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.127 / 2.5 | V | 2500/100.0%/0.0%/0.0% |  |
+| Negative Output Bound | -2.5 / -2.264 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="70.87295999999995,10.0,74.54783999999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="70.87295999999995" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="74.54783999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.252 / -2 | V | 2500/100.0%/0.0%/0.0% |  |
+| Positive Output Bound | 2 / 2.095 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.48671999999999,10.0,39.22089600000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.48671999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="39.22089600000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.126 / 2.5 | V | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
 
 # Input Range Specification <br>
 
@@ -73,13 +79,15 @@
 
 <br>
 
+
 # Input Range Specification (Monte Carlo) <br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Positive CM Input Bound | 0.8 / 0.894 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="22.40599542857143,10.0,61.77627428571427,10.0" style="stroke:green;stroke-width:2" /><circle cx="22.40599542857143" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.77627428571427" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.086 / 1.5 | V | 2500/100.0%/0.0%/0.0% | Input transistor sat. |
+| Positive CM Input Bound | 0.8 / 0.892 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="21.925055999999998,10.0,62.291794285714296,10.0" style="stroke:green;stroke-width:2" /><circle cx="21.925055999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="62.291794285714296" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.088 / 1.5 | V | 2500/100.0%/0.0%/0.0% | Input transistor sat. |
 
 <br>
+
 
 # Slew-Rate/Offset Specification <br>
 
@@ -91,15 +99,17 @@
 
 <br>
 
+
 # Slew-Rate/Offset Specification (Monte Carlo) <br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -10.0 / -3.841 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="47.342568,10.0,110.01599039999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="47.342568" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="110.01599039999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.863 / 10.0 | mV | 2500/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Positive) | 10.0 / 15.442 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="42.184128,10.0,81.95073599999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="42.184128" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="81.95073599999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 20.965 / 30.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Negative) | -30.0 / -22.237 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="58.89432,10.0,96.51144,10.0" style="stroke:green;stroke-width:2" /><circle cx="58.89432" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.51144" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -17.012 / -10.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
+| Input Offset | -10.0 / -4.409 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="43.252392,10.0,103.9493928,10.0" style="stroke:green;stroke-width:2" /><circle cx="43.252392" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="103.9493928" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.021 / 10.0 | mV | 2500/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Positive) | 10.0 / 15.405 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="41.919168,10.0,79.3686,10.0" style="stroke:green;stroke-width:2" /><circle cx="41.919168" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="79.3686" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 20.607 / 30.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Negative) | -30.0 / -22.038 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.3228,10.0,96.56832,10.0" style="stroke:green;stroke-width:2" /><circle cx="60.3228" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.56832" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -17.004 / -10.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
 
 # Noise Specification <br>
 
@@ -110,6 +120,7 @@
 
 <br>
 
+
 # THD Specification <br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
@@ -118,13 +129,15 @@
 
 <br>
 
+
 # THD Specification (Monte Carlo) <br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.093 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="47.6098032,10.0,72.32112,10.0" style="stroke:green;stroke-width:2" /><circle cx="47.6098032" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="72.32112" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.144 / 0.3 | % | 2500/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.093 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="47.650406399999994,10.0,71.138784,10.0" style="stroke:green;stroke-width:2" /><circle cx="47.650406399999994" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="71.138784" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.142 / 0.3 | % | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
 
 # AC Open-Loop Specification [PEX]<br>
 
@@ -137,16 +150,18 @@
 
 <br>
 
+
 # AC Open-Loop Specification (Monte Carlo) [PEX]<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Open-Loop Gain | 90 / 96.276 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.18806400000005,10.0,51.83132000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.18806400000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="51.83132000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 96.504 / 110 | dB | 2500/100.0%/0.0%/0.0% | Gain at 1Hz |
-| Phase Margin | 60 / 85.538 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="76.55059199999998,10.0,104.00280959999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="76.55059199999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="104.00280959999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 95.07 / 110 | deg | 2500/100.0%/0.0%/0.0% | Open-Loop |
-| Unity-Gain Bandwidth | 25.0 / 42.508 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="32.6606625882353,10.0,74.85013835294117,10.0" style="stroke:green;stroke-width:2" /><circle cx="32.6606625882353" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="74.85013835294117" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 67.412 / 110.0 | MHz | 2500/100.0%/0.0%/0.0% |  |
-| 3-dB Bandwidth | 0.1 / 0.395 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="7.291911272727273,10.0,9.565349818181819,10.0" style="stroke:green;stroke-width:2" /><circle cx="7.291911272727273" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="9.565349818181819" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.551 / 10.0 | kHz | 2500/100.0%/0.0%/0.0% |  |
+| Open-Loop Gain | 90 / 96.269 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.13535999999999,10.0,51.87797599999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.13535999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="51.87797599999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 96.511 / 110 | dB | 2500/100.0%/0.0%/0.0% | Gain at 1Hz |
+| Phase Margin | 60 / 85.251 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.7229952,10.0,103.18903679999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="75.7229952" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="103.18903679999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 94.788 / 110 | deg | 2500/100.0%/0.0%/0.0% | Open-Loop |
+| Unity-Gain Bandwidth | 25.0 / 43.424 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="34.21223717647059,10.0,71.6544734117647,10.0" style="stroke:green;stroke-width:2" /><circle cx="34.21223717647059" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="71.6544734117647" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 65.525 / 110.0 | MHz | 2500/100.0%/0.0%/0.0% |  |
+| 3-dB Bandwidth | 0.1 / 0.397 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="7.320558545454546,10.0,9.521010909090908,10.0" style="stroke:green;stroke-width:2" /><circle cx="7.320558545454546" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="9.521010909090908" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.548 / 10.0 | kHz | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
 
 # CMRR/PSRR Specification [PEX]<br>
 
@@ -161,18 +176,20 @@
 
 <br>
 
+
 # CMRR/PSRR Specification (Monte Carlo) [PEX]<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| CMRR at 10Hz | 50 / 63.129 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="21.906235200000005,10.0,103.570896,10.0" style="stroke:green;stroke-width:2" /><circle cx="21.906235200000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="103.570896" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 119.841 / 150 | dB | 2500/100.0%/0.0%/0.0% |  |
-| CMRR at 10MHz | 35 / 53.301 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="50.914455272727274,10.0,90.08193163636362,10.0" style="stroke:green;stroke-width:2" /><circle cx="50.914455272727274" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.08193163636362" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 68.26 / 90 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10Hz | 40 / 64.912 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="42.85924800000001,10.0,111.79264,10.0" style="stroke:green;stroke-width:2" /><circle cx="42.85924800000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="111.79264" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 107.995 / 130 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10MHz | 35 / 48.629 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="59.07265371428572,10.0,76.67624228571428,10.0" style="stroke:green;stroke-width:2" /><circle cx="59.07265371428572" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="76.67624228571428" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 52.907 / 70 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR- at 10Hz | 50 / 82.439 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="69.73120457142855,10.0,79.5119314285714,10.0" style="stroke:green;stroke-width:2" /><circle cx="69.73120457142855" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="79.5119314285714" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 87.193 / 120 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR- at 10MHz | 5 / 9.281 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="44.0978112,10.0,63.14035200000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="44.0978112" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="63.14035200000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 11.265 / 20 | dB | 2500/100.0%/0.0%/0.0% |  |
+| CMRR at 10Hz | 50 / 63.724 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="22.763236799999994,10.0,65.12099519999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="22.763236799999994" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="65.12099519999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 93.14 / 150 | dB | 2500/100.0%/0.0%/0.0% |  |
+| CMRR at 10MHz | 35 / 54.762 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="54.73940945454546,10.0,86.30753454545454,10.0" style="stroke:green;stroke-width:2" /><circle cx="54.73940945454546" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="86.30753454545454" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 66.819 / 90 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10Hz | 40 / 62.919 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="39.670048,10.0,100.91184000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="39.670048" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="100.91184000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 101.195 / 130 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10MHz | 35 / 47.833 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="55.79665371428572,10.0,77.22414171428571,10.0" style="stroke:green;stroke-width:2" /><circle cx="55.79665371428572" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="77.22414171428571" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 53.041 / 70 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR- at 10Hz | 50 / 82.689 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="70.24688914285713,10.0,79.21504457142856,10.0" style="stroke:green;stroke-width:2" /><circle cx="70.24688914285713" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="79.21504457142856" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 87.049 / 120 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR- at 10MHz | 5 / 9.352 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="44.77814399999999,10.0,63.585119999999996,10.0" style="stroke:green;stroke-width:2" /><circle cx="44.77814399999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="63.585119999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 11.311 / 20 | dB | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
 
 # Slew-Rate/Offset Specification [PEX]<br>
 
@@ -184,15 +201,17 @@
 
 <br>
 
+
 # Slew-Rate/Offset Specification (Monte Carlo) [PEX]<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -10.0 / -4.333 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="43.80276,10.0,105.2681376,10.0" style="stroke:green;stroke-width:2" /><circle cx="43.80276" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="105.2681376" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.204 / 10.0 | mV | 2500/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Positive) | 10.0 / 14.177 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="33.07764,10.0,67.283688,10.0" style="stroke:green;stroke-width:2" /><circle cx="33.07764" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="67.283688" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 18.928 / 30.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Negative) | -30.0 / -20.241 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="73.26407999999999,10.0,106.24799999999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="73.26407999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="106.24799999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -15.66 / -10.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
+| Input Offset | -10.0 / -3.932 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.692408,10.0,107.3727696,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.692408" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="107.3727696" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 4.496 / 10.0 | mV | 2500/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Positive) | 10.0 / 14.014 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.903176,10.0,61.938407999999995,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.903176" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="61.938407999999995" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 18.186 / 30.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Negative) | -30.0 / -19.975 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.17927999999999,10.0,105.90671999999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="75.17927999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="105.90671999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -15.707 / -10.0 | MV/s | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
 
 # Noise Specification [PEX]<br>
 
@@ -203,6 +222,7 @@
 
 <br>
 
+
 # THD Specification [PEX]<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
@@ -211,10 +231,12 @@
 
 <br>
 
+
 # THD Specification (Monte Carlo) [PEX]<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.113 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="57.307247999999994,10.0,89.649648,10.0" style="stroke:green;stroke-width:2" /><circle cx="57.307247999999994" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="89.649648" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.181 / 0.3 | % | 2500/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.11 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="55.899888000000004,10.0,85.998528,10.0" style="stroke:green;stroke-width:2" /><circle cx="55.899888000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="85.998528" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.173 / 0.3 | % | 2500/100.0%/0.0%/0.0% |  |
 
 <br>
+
