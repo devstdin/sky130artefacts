@@ -41,7 +41,7 @@ LVS-state: Netlists match uniquely.<br>
 
 <br>
 <details>
-  <summary>Specification Violation Details</summary>
+  <summary>Show specification violation details</summary>
   
 > **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/hh_mm/dc.csv Index:31 vsup:5.0 <br>
@@ -180,6 +180,7 @@ LVS-state: Netlists match uniquely.<br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/hh_mm/dc.csv Index:17 vsup:5.0 <br>
 > **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/hh_mm/dc.csv Index:43 vsup:5.0 <br>
 </details>
+<br>
 
 ## Reference Voltage Curvature vs VDD <br>
 
