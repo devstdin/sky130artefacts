@@ -1,4 +1,4 @@
-17.09.2022, 22:12:03
+18.09.2022, 13:18:27
 
 # Beta-Multiplier Bandgap
 
@@ -41,7 +41,6 @@ LVS-state: Netlists match uniquely.<br>
 | Max. Supply Current | -85.0 / -83.105 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="21.19008000000006,10.0,96.94175999999996,10.0" style="stroke:green;stroke-width:2" /><circle cx="21.19008000000006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.94175999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.214 / -70.0 | uA | 2418/100.0%/0.0%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
-  
 > **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
 > **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/ll_mm/dc.csv Index:18 vsup:5.0 <br>
 > **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/ss_mm/dc.csv Index:36 vsup:5.0 <br>
@@ -156,7 +155,6 @@ LVS-state: Netlists match uniquely.<br>
 | Max. Supply Current | -100.0 / -91.325 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,76.49101011011746,17,76.49101011011746,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="39.74550505505873,10.0,39.74550505505873,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="24.25066048344157,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="24.25066048344157" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | -41.217 / -70.0 | uA | 15/93.3333%/6.6667%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
-  
 > **FAIL:** Specification violation for parameter "Max. Supply Current":<br>
 > **FAIL:** group:hh file:work/sim/bmbg/bmbg_tb.4_bmbg/batch_0/hh/dc.csv Index:1 te:20.0 <br>
 </details><br>
@@ -229,7 +227,6 @@ LVS-state: Netlists match uniquely.<br>
 | Max. Supply Current | -85.0 / -28486.5 | <svg height="20" width="150"><polyline points="95.23306844739082,3,95.23306844739082,17,97.28283680563636,17,97.28283680563636,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="96.2579526265136,10.0,96.2579526265136,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 14914.57 / -70.0 | uA | 2495/90.6212%/9.3788%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
-  
 > **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
 > **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/ss_mm/dc.csv Index:25 vsup:5.0 <br>
 > **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/ff_mm/dc.csv Index:8 vsup:5.0 <br>
