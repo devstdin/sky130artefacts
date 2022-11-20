@@ -1,6 +1,15 @@
+
+Circuit 1 cell sky130_fd_pr__nfet_01v8 and Circuit 2 cell sky130_fd_pr__nfet_01v8 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__nfet_01v8 and sky130_fd_pr__nfet_01v8 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_01v8 and Circuit 2 cell sky130_fd_pr__pfet_01v8 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__pfet_01v8 and sky130_fd_pr__pfet_01v8 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_01v8_hvt and Circuit 2 cell sky130_fd_pr__pfet_01v8_hvt are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__pfet_01v8_hvt and sky130_fd_pr__pfet_01v8_hvt are equivalent.
 
 Class sky130_fd_sc_hd__inv_4 (0):  Merged 6 parallel devices.
 Class sky130_fd_sc_hd__inv_4 (1):  Merged 6 parallel devices.
@@ -12,7 +21,6 @@ sky130_fd_pr__nfet_01v8 (4->1)             |sky130_fd_pr__nfet_01v8 (4->1)
 Number of devices: 2                       |Number of devices: 2                       
 Number of nets: 6                          |Number of nets: 6                          
 ---------------------------------------------------------------------------------------
-Circuits match uniquely.
 Netlists match uniquely.
 
 Subcircuit pins:
@@ -38,7 +46,6 @@ sky130_fd_pr__nfet_01v8 (6->3)             |sky130_fd_pr__nfet_01v8 (6->3)
 Number of devices: 6                       |Number of devices: 6                       
 Number of nets: 9                          |Number of nets: 9                          
 ---------------------------------------------------------------------------------------
-Circuits match uniquely.
 Netlists match uniquely.
 
 Subcircuit pins:
@@ -63,7 +70,6 @@ sky130_fd_pr__pfet_01v8_hvt (14)           |sky130_fd_pr__pfet_01v8_hvt (14)
 Number of devices: 28                      |Number of devices: 28                      
 Number of nets: 21                         |Number of nets: 21                         
 ---------------------------------------------------------------------------------------
-Circuits match uniquely.
 Netlists match uniquely.
 
 Subcircuit pins:
@@ -97,8 +103,7 @@ sky130_fd_sc_hd__dfrtn_1 (3)               |sky130_fd_sc_hd__dfrtn_1 (3)
 Number of devices: 32                      |Number of devices: 32                      
 Number of nets: 29                         |Number of nets: 29                         
 ---------------------------------------------------------------------------------------
-Circuits match uniquely.
-Netlists match uniquely.
+Netlists match uniquely with port errors.
 
 Subcircuit pins:
 Circuit 1: riosc                           |Circuit 2: riosc_xschem.spice              
@@ -117,4 +122,6 @@ RESET                                      |(no matching pin)
 OSC                                        |(no matching pin)                          
 ---------------------------------------------------------------------------------------
 Cell pin lists for riosc and riosc_xschem.spice altered to match.
-Cells failed matching, or top level cell failed pin matching.
+Device classes riosc and riosc_xschem.spice are equivalent.
+
+Final result: Top level cell failed pin matching.
