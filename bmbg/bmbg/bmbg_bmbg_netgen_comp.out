@@ -1,9 +1,27 @@
+
+Circuit 1 cell sky130_fd_pr__nfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__nfet_g5v0d10v5 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__nfet_g5v0d10v5 and sky130_fd_pr__nfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__cap_mim_m3_1 and Circuit 2 cell sky130_fd_pr__cap_mim_m3_1 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__cap_mim_m3_1 and sky130_fd_pr__cap_mim_m3_1 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__pfet_g5v0d10v5 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__pfet_g5v0d10v5 and sky130_fd_pr__pfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__res_xhigh_po_1p41 and Circuit 2 cell sky130_fd_pr__res_xhigh_po_1p41 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__res_xhigh_po_1p41 and sky130_fd_pr__res_xhigh_po_1p41 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pnp_05v5_W3p40L3p40 and Circuit 2 cell sky130_fd_pr__pnp_05v5_W3p40L3p40 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__pnp_05v5_W3p40L3p40 and sky130_fd_pr__pnp_05v5_W3p40L3p40 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__res_xhigh_po_0p69 and Circuit 2 cell sky130_fd_pr__res_xhigh_po_0p69 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__res_xhigh_po_0p69 and sky130_fd_pr__res_xhigh_po_0p69 are equivalent.
 Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_DP5JSB in circuit bmbgota (0)(10 instances)
 Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_1_5WMUWD in circuit bmbgota (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_WL3UED in circuit bmbgota (0)(18 instances)
@@ -23,7 +41,6 @@ sky130_fd_pr__res_xhigh_po_1p41 (1)        |sky130_fd_pr__res_xhigh_po_1p41 (1)
 Number of devices: 12                      |Number of devices: 12                      
 Number of nets: 10                         |Number of nets: 10                         
 ---------------------------------------------------------------------------------------
-Circuits match uniquely.
 Netlists match uniquely.
 
 Subcircuit pins:
@@ -60,8 +77,7 @@ sky130_fd_pr__res_xhigh_po_0p69 (4->1)     |sky130_fd_pr__res_xhigh_po_0p69 (1)
 Number of devices: 14                      |Number of devices: 14                      
 Number of nets: 10                         |Number of nets: 10                         
 ---------------------------------------------------------------------------------------
-Circuits match uniquely.
-Netlists match uniquely.
+Netlists match uniquely with port errors.
 
 Subcircuit pins:
 Circuit 1: bmbg                            |Circuit 2: bmbg_xschem.spice               
@@ -76,4 +92,6 @@ IB                                         |(no matching pin)
 VREF                                       |(no matching pin)                          
 ---------------------------------------------------------------------------------------
 Cell pin lists for bmbg and bmbg_xschem.spice altered to match.
-Cells failed matching, or top level cell failed pin matching.
+Device classes bmbg and bmbg_xschem.spice are equivalent.
+
+Final result: Top level cell failed pin matching.
