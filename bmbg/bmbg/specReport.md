@@ -16,16 +16,107 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean Reference Voltage | 1 / 0.999 | <svg height="20" width="150"><polyline points="3.5108214755470457,3,3.5108214755470457,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.25541073777353,10.0,75.25541073777353,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,124.22252780102835,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="124.22252780102835" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1.337 / 1.4 | V | 2451/99.9592%/0.0408%/0.0% |  |
-| Reference Voltage Curvature | 0.0 / 3.471 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.9993916160000005,10.0,18.94790784,10.0" style="stroke:green;stroke-width:2" /><circle cx="4.9993916160000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="18.94790784" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 27.687 / 250.0 | mV | 2440/100.0%/0.0%/0.0% |  |
-| Reference Voltage at 20°C | 1 / 1.096 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="37.607520000000044,10.0,123.96936,10.0" style="stroke:green;stroke-width:2" /><circle cx="37.607520000000044" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="123.96936" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.336 / 1.4 | V | 2440/100.0%/0.0%/0.0% |  |
-| Reference Voltage Sensitivity at 20°C | -1200.0 / -139.259 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="66.64446,10.0,82.292826,10.0" style="stroke:green;stroke-width:2" /><circle cx="66.64446" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="82.292826" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 121.547 / 1200.0 | uV/°C | 2440/100.0%/0.0%/0.0% |  |
-| Max. Supply Current | -85.0 / -82.34 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="28.53216000000002,10.0,93.15456000000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="28.53216000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="93.15456000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.609 / -70.0 | uA | 2440/100.0%/0.0%/0.0% |  |
+| Mean Reference Voltage | 1 / 0.969 | <svg height="20" width="150"><polyline points="13.257172133288666,3,13.257172133288666,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="80.12858606664433,10.0,80.12858606664433,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,128.84039883225796,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="128.84039883225796" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1.346 / 1.4 | V | 2447/99.4687%/0.5313%/0.0% |  |
+| Reference Voltage Curvature | 0.0 / 0.531 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.3057790464,10.0,111.6323904,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.3057790464" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="111.6323904" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 188.598 / 250.0 | mV | 2423/100.0%/0.0%/0.0% |  |
+| Reference Voltage at 20°C | 1 / 1.06 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="24.474359999999965,10.0,129.07272,10.0" style="stroke:green;stroke-width:2" /><circle cx="24.474359999999965" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="129.07272" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.35 / 1.4 | V | 2423/100.0%/0.0%/0.0% |  |
+| Reference Voltage Sensitivity at 20°C | -1200.0 / -1759.78 | <svg height="20" width="150"><polyline points="30.23456473116246,3,30.23456473116246,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="88.61728236558123,10.0,88.61728236558123,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,132.9716351891019,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="132.9716351891019" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 911.661 / 1200.0 | uV/°C | 2500/96.92%/3.08%/0.0% |  |
+| Max. Supply Current | -85.0 / -83.051 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="21.71424000000004,10.0,99.14496000000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="21.71424000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="99.14496000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -74.985 / -70.0 | uA | 2423/100.0%/0.0%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
 
 > **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
-> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/tt_mm/dc.csv Index:32 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/tt_mm/dc.csv Index:10 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/ll_mm/dc.csv Index:20 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/ff_mm/dc.csv Index:5 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_9/tt_mm/dc.csv Index:5 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_2/ll_mm/dc.csv Index:9 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_2/ss_mm/dc.csv Index:37 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_6/ll_mm/dc.csv Index:16 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ss_mm/dc.csv Index:15 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/ss_mm/dc.csv Index:31 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/tt_mm/dc.csv Index:13 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/tt_mm/dc.csv Index:34 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/tt_mm/dc.csv Index:39 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/tt_mm/dc.csv Index:48 vsup:5.0 <br>
+
+> **FAIL:** Specification violation for parameter "Reference Voltage Sensitivity at 20°C":<br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/tt_mm/dc.csv Index:10 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/tt_mm/dc.csv Index:40 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/ss_mm/dc.csv Index:31 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/ss_mm/dc.csv Index:43 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/ff_mm/dc.csv Index:16 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/ff_mm/dc.csv Index:34 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/hh_mm/dc.csv Index:17 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/hh_mm/dc.csv Index:18 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_8/hh_mm/dc.csv Index:37 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/tt_mm/dc.csv Index:33 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/tt_mm/dc.csv Index:35 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/tt_mm/dc.csv Index:48 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/ll_mm/dc.csv Index:3 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/ll_mm/dc.csv Index:4 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/ll_mm/dc.csv Index:30 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/ff_mm/dc.csv Index:15 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/ff_mm/dc.csv Index:32 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_5/ff_mm/dc.csv Index:42 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_9/tt_mm/dc.csv Index:17 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_9/tt_mm/dc.csv Index:38 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_9/ff_mm/dc.csv Index:42 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_2/tt_mm/dc.csv Index:17 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_2/ll_mm/dc.csv Index:11 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_2/ll_mm/dc.csv Index:24 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_2/ff_mm/dc.csv Index:2 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_2/hh_mm/dc.csv Index:0 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_6/tt_mm/dc.csv Index:24 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_6/ll_mm/dc.csv Index:33 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_6/ll_mm/dc.csv Index:48 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_6/ss_mm/dc.csv Index:6 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_6/ss_mm/dc.csv Index:25 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_6/ff_mm/dc.csv Index:7 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/tt_mm/dc.csv Index:3 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ll_mm/dc.csv Index:6 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ll_mm/dc.csv Index:8 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ll_mm/dc.csv Index:31 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ll_mm/dc.csv Index:47 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ss_mm/dc.csv Index:41 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ff_mm/dc.csv Index:2 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ff_mm/dc.csv Index:10 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/ff_mm/dc.csv Index:33 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_1/hh_mm/dc.csv Index:38 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/tt_mm/dc.csv Index:29 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/ll_mm/dc.csv Index:18 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/ll_mm/dc.csv Index:30 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/ff_mm/dc.csv Index:9 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/ff_mm/dc.csv Index:12 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/ff_mm/dc.csv Index:24 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/ff_mm/dc.csv Index:48 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_0/hh_mm/dc.csv Index:2 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_4/tt_mm/dc.csv Index:17 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_4/tt_mm/dc.csv Index:21 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_4/tt_mm/dc.csv Index:28 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_4/ll_mm/dc.csv Index:1 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_4/ll_mm/dc.csv Index:17 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_4/ll_mm/dc.csv Index:35 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_4/ss_mm/dc.csv Index:49 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_4/ff_mm/dc.csv Index:27 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/tt_mm/dc.csv Index:1 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/tt_mm/dc.csv Index:22 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/ll_mm/dc.csv Index:4 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/ll_mm/dc.csv Index:5 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/ll_mm/dc.csv Index:25 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/ll_mm/dc.csv Index:30 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/ll_mm/dc.csv Index:39 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/ss_mm/dc.csv Index:35 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/ff_mm/dc.csv Index:26 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/hh_mm/dc.csv Index:9 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_3/hh_mm/dc.csv Index:19 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/tt_mm/dc.csv Index:42 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/tt_mm/dc.csv Index:45 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/ll_mm/dc.csv Index:26 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/ll_mm/dc.csv Index:32 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/ss_mm/dc.csv Index:34 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/ff_mm/dc.csv Index:10 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/ff_mm/dc.csv Index:36 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg/batch_7/hh_mm/dc.csv Index:33 vsup:5.0 <br>
 </details><br>
 
 
@@ -50,11 +141,11 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean Reference Voltage | 1 / 1.105 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="40.88928000000001,10.0,131.59956000000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="40.88928000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="131.59956000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.357 / 1.4 | V | 2472/100.0%/0.0%/0.0% |  |
-| Reference Voltage Curvature | 0.0 / 0.734 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="7.226428224,10.0,118.21578240000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="7.226428224" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="118.21578240000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 20.003 / 25.0 | mV | 2472/100.0%/0.0%/0.0% |  |
-| Reference Voltage at 3.3V | 1 / 1.105 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="40.70999999999997,10.0,130.14300000000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="40.70999999999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="130.14300000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.353 / 1.4 | V | 2472/100.0%/0.0%/0.0% |  |
-| Reference Voltage Sensitivity at 3.3V | -20.0 / -3.596 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="62.053968,10.0,120.869904,10.0" style="stroke:green;stroke-width:2" /><circle cx="62.053968" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="120.869904" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 12.742 / 20.0 | mV/V | 2472/100.0%/0.0%/0.0% |  |
-| Max. Supply Current | -100.0 / -83.675 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="81.35999999999999,10.0,119.01743999999997,10.0" style="stroke:green;stroke-width:2" /><circle cx="81.35999999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="119.01743999999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.83 / -70.0 | uA | 2472/100.0%/0.0%/0.0% |  |
+| Mean Reference Voltage | 1 / 1.098 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="38.25120000000001,10.0,122.26548000000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="38.25120000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="122.26548000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.331 / 1.4 | V | 2466/100.0%/0.0%/0.0% |  |
+| Reference Voltage Curvature | 0.0 / 0.803 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="7.6258629120000005,10.0,118.7967936,10.0" style="stroke:green;stroke-width:2" /><circle cx="7.6258629120000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="118.7967936" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 20.104 / 25.0 | mV | 2465/100.0%/0.0%/0.0% |  |
+| Reference Voltage at 3.3V | 1 / 1.1 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="38.96040000000002,10.0,121.34136000000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="38.96040000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="121.34136000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.329 / 1.4 | V | 2465/100.0%/0.0%/0.0% |  |
+| Reference Voltage Sensitivity at 3.3V | -20.0 / -3.057 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="63.996204,10.0,120.56095200000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="63.996204" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="120.56095200000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 12.656 / 20.0 | mV/V | 2465/100.0%/0.0%/0.0% |  |
+| Max. Supply Current | -100.0 / -83.3 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="83.1624,10.0,122.81183999999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="83.1624" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="122.81183999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.039 / -70.0 | uA | 2465/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -83,8 +174,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| PSRR+ at 10 Hz | -120 / -108.2 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="16.07076923076923,10.0,108.47302153846154,10.0" style="stroke:green;stroke-width:2" /><circle cx="16.07076923076923" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="108.47302153846154" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -24.781 / 10 | dB | 2500/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10 MHz | -10 / 5.787 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="78.7764576,10.0,93.49554239999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="78.7764576" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="93.49554239999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 8.853 / 20 | dB | 2456/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 Hz | -120 / -108.032 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="16.256861538461543,10.0,108.36712615384616,10.0" style="stroke:green;stroke-width:2" /><circle cx="16.256861538461543" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="108.36712615384616" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -24.877 / 10 | dB | 2500/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 MHz | -10 / 5.674 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="78.2330304,10.0,94.5281856,10.0" style="stroke:green;stroke-width:2" /><circle cx="78.2330304" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="94.5281856" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 9.068 / 20 | dB | 2418/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -106,16 +197,70 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean Reference Voltage | 1 / 1.019 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,127.22628162270577,17,127.22628162270577,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="65.11314081135288,10.0,65.11314081135288,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="8.758509284620546,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="8.758509284620546" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1.464 / 1.4 | V | 2408/99.9585%/0.0415%/0.0% |  |
-| Reference Voltage Curvature | 0.0 / 1.864 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.073713536,10.0,24.8503584,10.0" style="stroke:green;stroke-width:2" /><circle cx="4.073713536" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="24.8503584" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 37.935 / 250.0 | mV | 2427/100.0%/0.0%/0.0% |  |
-| Reference Voltage at 20°C | 1 / 1.129 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.31687999999998,10.0,119.11224000000006,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.31687999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="119.11224000000006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.323 / 1.4 | V | 2415/100.0%/0.0%/0.0% |  |
-| Reference Voltage Sensitivity at 20°C | -1200.0 / -137.765 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="66.73410000000001,10.0,87.760158,10.0" style="stroke:green;stroke-width:2" /><circle cx="66.73410000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="87.760158" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 212.669 / 1200.0 | uV/°C | 2472/100.0%/0.0%/0.0% |  |
-| Max. Supply Current | -85.0 / -82.98 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="22.388160000000084,10.0,102.32352000000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="22.388160000000084" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="102.32352000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -74.654 / -70.0 | uA | 2367/100.0%/0.0%/0.0% |  |
+| Mean Reference Voltage | 1 / 0.814 | <svg height="20" width="150"><polyline points="26.63835577799679,3,26.63835577799679,17,77.5368242024338,17,77.5368242024338,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="52.08758999021529,10.0,52.08758999021529,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1.946 / 1.4 | V | 2373/98.4408%/1.5592%/0.0% |  |
+| Reference Voltage Curvature | 0.0 / 1.2 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,123.35899074974289,17,123.35899074974289,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="63.17949537487144,10.0,63.17949537487144,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.577493029208452,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.577493029208452" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 299.105 / 250.0 | mV | 2411/99.8756%/0.1244%/0.0% |  |
+| Reference Voltage at 20°C | 1 / 1.125 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="47.87652000000001,10.0,136.11828,10.0" style="stroke:green;stroke-width:2" /><circle cx="47.87652000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="136.11828" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.37 / 1.4 | V | 2360/100.0%/0.0%/0.0% |  |
+| Reference Voltage Sensitivity at 20°C | -1200.0 / -1687.06 | <svg height="20" width="150"><polyline points="24.066362220021574,3,24.066362220021574,17,127.87137459642646,17,127.87137459642646,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.96886840822401,10.0,75.96886840822401,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1642.259 / 1200.0 | uV/°C | 2472/99.7977%/0.2023%/0.0% |  |
+| Max. Supply Current | -85.0 / -82.937 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,129.9557653199168,17,129.9557653199168,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="66.4778826599584,10.0,66.4778826599584,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="20.46318870563898,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="20.46318870563898" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | -67.986 / -70.0 | uA | 2281/99.8246%/0.1754%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
 
 > **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
-> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_6/hh_mm/dc.csv Index:1 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/ll_mm/dc.csv Index:46 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/ss_mm/dc.csv Index:41 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/ff_mm/dc.csv Index:2 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/hh_mm/dc.csv Index:28 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_5/tt_mm/dc.csv Index:8 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_5/ll_mm/dc.csv Index:11 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/tt_mm/dc.csv Index:1 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ll_mm/dc.csv Index:25 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ss_mm/dc.csv Index:31 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ss_mm/dc.csv Index:34 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ss_mm/dc.csv Index:47 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ff_mm/dc.csv Index:5 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ff_mm/dc.csv Index:12 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/hh_mm/dc.csv Index:5 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/hh_mm/dc.csv Index:16 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/hh_mm/dc.csv Index:43 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_2/tt_mm/dc.csv Index:45 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_2/ff_mm/dc.csv Index:0 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_1/ss_mm/dc.csv Index:0 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_1/ss_mm/dc.csv Index:35 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_1/ff_mm/dc.csv Index:25 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_1/ff_mm/dc.csv Index:28 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_1/hh_mm/dc.csv Index:9 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_0/ll_mm/dc.csv Index:20 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_0/ff_mm/dc.csv Index:38 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_4/tt_mm/dc.csv Index:39 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_4/ll_mm/dc.csv Index:2 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_4/ll_mm/dc.csv Index:45 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_4/ss_mm/dc.csv Index:40 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_4/ff_mm/dc.csv Index:12 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_4/ff_mm/dc.csv Index:13 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_3/ll_mm/dc.csv Index:7 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_3/hh_mm/dc.csv Index:8 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_7/tt_mm/dc.csv Index:43 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_7/ll_mm/dc.csv Index:8 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_7/ss_mm/dc.csv Index:1 vsup:5.0 <br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_7/ss_mm/dc.csv Index:21 vsup:5.0 <br>
+
+> **FAIL:** Specification violation for parameter "Reference Voltage Curvature":<br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/ll_mm/dc.csv Index:49 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_2/tt_mm/dc.csv Index:44 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_0/tt_mm/dc.csv Index:27 vsup:5.0 <br>
+
+> **FAIL:** Specification violation for parameter "Reference Voltage Sensitivity at 20°C":<br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/ll_mm/dc.csv Index:49 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ff_mm/dc.csv Index:22 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ff_mm/dc.csv Index:38 vsup:5.0 <br>
+> **FAIL:** group:hh_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/hh_mm/dc.csv Index:41 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_0/tt_mm/dc.csv Index:15 vsup:5.0 <br>
+
+> **FAIL:** Specification violation for parameter "Max. Supply Current":<br>
+> **FAIL:** group:ss_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_8/ss_mm/dc.csv Index:49 vsup:5.0 <br>
+> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_9/ll_mm/dc.csv Index:35 vsup:5.0 <br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_2/ff_mm/dc.csv Index:38 vsup:5.0 <br>
+> **FAIL:** group:tt_mm file:work/sim/bmbg/bmbg_tb.1_bmbg_ext/batch_4/tt_mm/dc.csv Index:4 vsup:5.0 <br>
 </details><br>
 
 
@@ -136,16 +281,16 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Mean Reference Voltage | 1 / 1.121 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.473240000000025,10.0,128.64468000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.473240000000025" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="128.64468000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.349 / 1.4 | V | 2485/100.0%/0.0%/0.0% |  |
-| Reference Voltage Curvature | 0.0 / 0.821 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,144.4181569914387,17,144.4181569914387,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="73.70907849571935,10.0,73.70907849571935,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="7.642815792636985,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="7.642815792636985" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 25.456 / 25.0 | mV | 2483/99.9597%/0.0403%/0.0% |  |
-| Reference Voltage at 3.3V | 1 / 1.121 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.59707999999999,10.0,125.36616000000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.59707999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="125.36616000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.34 / 1.4 | V | 2486/100.0%/0.0%/0.0% |  |
-| Reference Voltage Sensitivity at 3.3V | -20.0 / -4.376 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="59.245176,10.0,132.77233199999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="59.245176" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="132.77233199999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 16.048 / 20.0 | mV/V | 2485/100.0%/0.0%/0.0% |  |
-| Max. Supply Current | -100.0 / -84.081 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="79.41263999999998,10.0,122.24495999999995,10.0" style="stroke:green;stroke-width:2" /><circle cx="79.41263999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="122.24495999999995" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.157 / -70.0 | uA | 2486/100.0%/0.0%/0.0% |  |
+| Mean Reference Voltage | 1 / 1.125 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,137.97458681607603,17,137.97458681607603,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="70.48729340803801,10.0,70.48729340803801,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="45.25278209337146,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="45.25278209337146" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1.427 / 1.4 | V | 2465/99.9594%/0.0406%/0.0% |  |
+| Reference Voltage Curvature | 0.0 / 0.91 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="8.241711168,10.0,145.2862848,10.0" style="stroke:green;stroke-width:2" /><circle cx="8.241711168" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="145.2862848" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 24.702 / 25.0 | mV | 2465/100.0%/0.0%/0.0% |  |
+| Reference Voltage at 3.3V | 1 / 1.126 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="48.21023999999998,10.0,128.64756000000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="48.21023999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="128.64756000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.349 / 1.4 | V | 2468/100.0%/0.0%/0.0% |  |
+| Reference Voltage Sensitivity at 3.3V | -20.0 / -4.681 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="58.147536,10.0,130.538316,10.0" style="stroke:green;stroke-width:2" /><circle cx="58.147536" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="130.538316" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 15.427 / 20.0 | mV/V | 2468/100.0%/0.0%/0.0% |  |
+| Max. Supply Current | -100.0 / -83.785 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="80.83151999999997,10.0,119.62559999999996,10.0" style="stroke:green;stroke-width:2" /><circle cx="80.83151999999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="119.62559999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -75.703 / -70.0 | uA | 2464/100.0%/0.0%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
 
-> **FAIL:** Specification violation for parameter "Reference Voltage Curvature":<br>
-> **FAIL:** group:ll_mm file:work/sim/bmbg/bmbg_tb.4_bmbg_ext/batch_5/ll_mm/dc.csv Index:18 te:20.0 <br>
+> **FAIL:** Specification violation for parameter "Mean Reference Voltage":<br>
+> **FAIL:** group:ff_mm file:work/sim/bmbg/bmbg_tb.4_bmbg_ext/batch_7/ff_mm/dc.csv Index:15 te:20.0 <br>
 </details><br>
 
 
@@ -173,8 +318,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| PSRR+ at 10 Hz | -120 / -107.287 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="17.0820923076923,10.0,111.40452923076924,10.0" style="stroke:green;stroke-width:2" /><circle cx="17.0820923076923" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="111.40452923076924" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -22.135 / 10 | dB | 2469/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10 MHz | -10 / 7.344 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="86.2512096,10.0,100.683696,10.0" style="stroke:green;stroke-width:2" /><circle cx="86.2512096" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="100.683696" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 10.351 / 20 | dB | 2458/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 Hz | -120 / -109.492 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="14.639630769230765,10.0,135.9378957526154,10.0" style="stroke:green;stroke-width:2" /><circle cx="14.639630769230765" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="135.9378957526154" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.013 / 10 | dB | 2498/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10 MHz | -10 / 7.58 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.38541120000001,10.0,101.36462399999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.38541120000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="101.36462399999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 10.493 / 20 | dB | 2400/100.0%/0.0%/0.0% |  |
 
 <br>
 
