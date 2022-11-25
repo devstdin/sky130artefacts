@@ -1,4 +1,4 @@
-25.11.2022, 08:20:21
+25.11.2022, 09:45:20
 
 # Ring Oscillator
 
@@ -56,7 +56,7 @@ LVS-state: Netlists match uniquely.<br>
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
 | High Duration | 10.0 / 44.647 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="58.43520000000001,10.0,84.07360000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="58.43520000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="84.07360000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 60.671 / 100.0 | ns | 500/100.0%/0.0%/0.0% | Last period before oscillator disable |
 | Period Duration | 20.0 / 91.752 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.401976000000005,10.0,87.69480000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="60.401976000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="87.69480000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 125.869 / 200.0 | ns | 500/100.0%/0.0%/0.0% | First period after oscillator enable |
-| Duty-Cycle | 40 / 43.896 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.049687999999986,10.0,87.930696,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.049687999999986" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="87.930696" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 51.796 / 60 | % | 500/100.0%/0.0%/0.0% | First period after oscillator enable |
+| Duty-Cycle | 40 / 43.9 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.082952000000006,10.0,87.930696,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.082952000000006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="87.930696" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 51.796 / 60 | % | 500/100.0%/0.0%/0.0% | First period after oscillator enable |
 
 <br>
 
