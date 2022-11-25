@@ -15,10 +15,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Open-Loop Gain | 60 / 72.154 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.75576800000001,10.0,56.90517599999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.75576800000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="56.90517599999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 74.974 / 100 | dB | 1000/100.0%/0.0%/0.0% | Gain at 1Hz |
-| Phase Margin | 60 / 90.933 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="92.0856864,10.0,125.761152,10.0" style="stroke:green;stroke-width:2" /><circle cx="92.0856864" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="125.761152" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 102.625 / 110 | deg | 1000/100.0%/0.0%/0.0% | Open-Loop |
-| Unity-Gain Bandwidth | 5.0 / 9.064 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="61.516171199999995,10.0,115.15699199999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="61.516171199999995" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="115.15699199999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 12.789 / 15.0 | MHz | 1000/100.0%/0.0%/0.0% |  |
-| 3-dB Bandwidth | 0.1 / 1.151 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.28760727272727,10.0,27.384523636363635,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.28760727272727" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="27.384523636363635" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.776 / 10.0 | kHz | 1000/100.0%/0.0%/0.0% |  |
+| Open-Loop Gain | 60 / 72.169 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.806816,10.0,57.103320000000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.806816" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="57.103320000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 75.029 / 100 | dB | 1000/100.0%/0.0%/0.0% | Gain at 1Hz |
+| Phase Margin | 60 / 90.947 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="92.12871359999998,10.0,125.35104000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="92.12871359999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="125.35104000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 102.483 / 110 | deg | 1000/100.0%/0.0%/0.0% | Open-Loop |
+| Unity-Gain Bandwidth | 5.0 / 9.402 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="66.3817728,10.0,118.6644,10.0" style="stroke:green;stroke-width:2" /><circle cx="66.3817728" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="118.6644" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 13.032 / 15.0 | MHz | 1000/100.0%/0.0%/0.0% |  |
+| 3-dB Bandwidth | 0.1 / 1.135 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.057207272727272,10.0,27.93357090909091,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.057207272727272" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="27.93357090909091" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.814 / 10.0 | kHz | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -41,14 +41,67 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| CMRR at 10Hz | 50 / 62.346 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="20.778412799999998,10.0,37.46540639999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="20.778412799999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="37.46540639999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 73.934 / 150 | dB | 1000/100.0%/0.0%/0.0% |  |
-| CMRR at 10MHz | 30 / 42.094 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="90.07968000000001,10.0,112.07640000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="90.07968000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="112.07640000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 45.15 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10Hz | 40 / 40.007 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.010735999999997,10.0,5.063584000000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.010735999999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="5.063584000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.29 / 130 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10MHz | -10 / -0.381 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="72.254424,10.0,78.50012232,10.0" style="stroke:green;stroke-width:2" /><circle cx="72.254424" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="78.50012232" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.486 / 10 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR- at 10Hz | 30 / 40.5 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="78.60288,10.0,91.74273600000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="78.60288" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="91.74273600000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.325 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR- at 10MHz | 20 / 27.994 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.55571999999999,10.0,73.99776000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="60.55571999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="73.99776000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 29.861 / 40 | dB | 1000/100.0%/0.0%/0.0% |  |
+| CMRR at 10Hz | 50 / 62.565 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="21.094247999999997,10.0,37.8166656,10.0" style="stroke:green;stroke-width:2" /><circle cx="21.094247999999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="37.8166656" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 74.178 / 150 | dB | 1000/100.0%/0.0%/0.0% |  |
+| CMRR at 10MHz | 30 / 41.224 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="83.81150400000003,10.0,107.93762399999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="83.81150400000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="107.93762399999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 44.575 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10Hz | 40 / 39.995 | <svg height="20" width="150"><polyline points="3.0084795006516254,3,3.0084795006516254,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.00423975032582,10.0,75.00423975032582,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,5.122307019697721,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="5.122307019697721" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 41.321 / 130 | dB | 1000/95.0%/5.0%/0.0% |  |
+| PSRR+ at 10MHz | -10 / -0.751 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="69.5895528,10.0,76.84504608,10.0" style="stroke:green;stroke-width:2" /><circle cx="69.5895528" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="76.84504608" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.256 / 10 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR- at 10Hz | 30 / 40.442 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="78.18456000000002,10.0,93.45813600000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="78.18456000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="93.45813600000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.564 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR- at 10MHz | 20 / 27.617 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="57.84110400000001,10.0,72.677496,10.0" style="stroke:green;stroke-width:2" /><circle cx="57.84110400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="72.677496" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 29.677 / 40 | dB | 1000/100.0%/0.0%/0.0% |  |
 
-<br>
+<details><summary>Show specification violation details...</summary>
+
+> **FAIL:** Specification violation for parameter "PSRR+ at 10Hz":<br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:0 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:1 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:2 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:3 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:4 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:5 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:6 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:7 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:8 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:9 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:10 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:11 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:12 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:13 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:14 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:15 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:16 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:17 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:18 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:19 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:20 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:21 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:22 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:23 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:24 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:25 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:26 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:27 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:28 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:29 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:30 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:31 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:32 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:33 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:34 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:35 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:36 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:37 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:38 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:39 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:40 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:41 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:42 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:43 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:44 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:45 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:46 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:47 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:48 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota/batch_1/ff_mm/ldoota_ac_cmrr_psrr.csv Index:49 <br>
+</details><br>
 
 
 # Output Range Specification <br>
@@ -65,8 +118,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Negative Output Bound | -3 / -2.859 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="16.49375999999998,10.0,122.36928,10.0" style="stroke:green;stroke-width:2" /><circle cx="16.49375999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="122.36928" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -1.757 / -1.5 | V | 1000/100.0%/0.0%/0.0% |  |
-| Positive Output Bound | 2.5 / 2.999 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="144.66188800000006,10.0,146.73705599999994,10.0" style="stroke:green;stroke-width:2" /><circle cx="144.66188800000006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="146.73705599999994" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.999 / 3 | V | 1000/100.0%/0.0%/0.0% |  |
+| Negative Output Bound | -3 / -2.856 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="16.816320000000005,10.0,123.9744,10.0" style="stroke:green;stroke-width:2" /><circle cx="16.816320000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="123.9744" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -1.74 / -1.5 | V | 1000/100.0%/0.0%/0.0% |  |
+| Positive Output Bound | 2.5 / 2.999 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="144.66822400000007,10.0,146.73504000000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="144.66822400000007" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="146.73504000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.999 / 3 | V | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -84,7 +137,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Negative CM Input Bound | -3 / -2.123 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.21215999999998,10.0,96.03456000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.21215999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.03456000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.031 / -1.5 | V | 1000/100.0%/0.0%/0.0% | Input transistor sat. |
+| Negative CM Input Bound | -3 / -2.121 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.40896,10.0,96.09599999999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.40896" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.09599999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.03 / -1.5 | V | 1000/100.0%/0.0%/0.0% | Input transistor sat. |
 
 <br>
 
@@ -104,64 +157,11 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -20.0 / 11.883 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,143.8992650978088,17,143.8992650978088,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="73.4496325489044,10.0,73.4496325489044,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="115.3061193088989,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="115.3061193088989" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 20.88 / 20.0 | mV | 1000/95.0%/5.0%/0.0% |  |
-| Slew-Rate (Positive) | 4.0 / 4.077 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.8485759999999996,10.0,42.852744,10.0" style="stroke:green;stroke-width:2" /><circle cx="4.8485759999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="42.852744" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.661 / 10.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Negative) | -10.0 / -3.2 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="125.39280000000001,10.0,137.95266,10.0" style="stroke:green;stroke-width:2" /><circle cx="125.39280000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.95266" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.503 / -2.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
+| Input Offset | -20.0 / 11.572 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="116.66060399999999,10.0,146.93368800000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="116.66060399999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="146.93368800000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 19.982 / 20.0 | mV | 1000/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Positive) | 4.0 / 4.257 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.15924,10.0,45.745344,10.0" style="stroke:green;stroke-width:2" /><circle cx="9.15924" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="45.745344" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.781 / 10.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Negative) | -10.0 / -3.236 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="124.74444,10.0,138.08172,10.0" style="stroke:green;stroke-width:2" /><circle cx="124.74444" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="138.08172" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.495 / -2.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
 
-<details><summary>Show specification violation details...</summary>
-
-> **FAIL:** Specification violation for parameter "Input Offset":<br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:0 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:1 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:2 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:3 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:4 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:5 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:6 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:7 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:8 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:9 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:10 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:11 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:12 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:13 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:14 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:15 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:16 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:17 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:18 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:19 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:20 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:21 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:22 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:23 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:24 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:25 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:26 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:27 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:28 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:29 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:30 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:31 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:32 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:33 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:34 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:35 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:36 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:37 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:38 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:39 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:40 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:41 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:42 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:43 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:44 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:45 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:46 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:47 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:48 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ff_mm/ldoota_tran_slew.csv Index:49 <br>
-</details><br>
+<br>
 
 
 # Noise Specification <br>
@@ -187,7 +187,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.019 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="12.2069904,10.0,19.4345568,10.0" style="stroke:green;stroke-width:2" /><circle cx="12.2069904" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.4345568" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.034 / 0.3 | % | 1000/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.02 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="12.580824,10.0,19.88256,10.0" style="stroke:green;stroke-width:2" /><circle cx="12.580824" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.88256" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.035 / 0.3 | % | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -208,25 +208,12 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Open-Loop Gain | 60 / -143.907 | <svg height="20" width="150"><polyline points="123.38444161094188,3,123.38444161094188,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="135.19222080547092,10.0,135.19222080547092,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,132.25430364852178,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="132.25430364852178" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 75.024 / 100 | dB | 1000/99.9%/0.1%/0.0% | Gain at 1Hz |
-| Phase Margin | 60 / 19.0 | <svg height="20" width="150"><polyline points="67.87912087912088,3,67.87912087912088,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="107.43956043956044,10.0,107.43956043956044,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,127.02743736263736,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="127.02743736263736" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 97.378 / 110 | deg | 1000/99.9%/0.1%/0.0% | Open-Loop |
-| Unity-Gain Bandwidth | 5.0 / 0.0 | <svg height="20" width="150"><polyline points="50.99987839984597,3,50.99987839984597,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="98.99993919992298,10.0,98.99993919992298,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,122.58112106942,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="122.58112106942" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 12.456 / 15.0 | MHz | 1000/99.9%/0.1%/0.0% |  |
-| 3-dB Bandwidth | 0.1 / 0.019 | <svg height="20" width="150"><polyline points="4.168620378719567,3,4.168620378719567,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.58431018935978,10.0,75.58431018935978,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,26.995210099188455,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="26.995210099188455" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1.682 / 10.0 | kHz | 1000/99.9%/0.1%/0.0% |  |
+| Open-Loop Gain | 60 / 72.168 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.80515999999999,10.0,57.02685599999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.80515999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="57.02685599999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 75.007 / 100 | dB | 1000/100.0%/0.0%/0.0% | Gain at 1Hz |
+| Phase Margin | 60 / 85.482 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="76.38844800000001,10.0,110.27429759999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="76.38844800000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="110.27429759999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 97.248 / 110 | deg | 1000/100.0%/0.0%/0.0% | Open-Loop |
+| Unity-Gain Bandwidth | 5.0 / 8.447 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="52.6413072,10.0,94.754064,10.0" style="stroke:green;stroke-width:2" /><circle cx="52.6413072" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="94.754064" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 11.372 / 15.0 | MHz | 1000/100.0%/0.0%/0.0% |  |
+| 3-dB Bandwidth | 0.1 / 1.104 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="17.605483636363637,10.0,26.122632727272727,10.0" style="stroke:green;stroke-width:2" /><circle cx="17.605483636363637" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="26.122632727272727" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.69 / 10.0 | kHz | 1000/100.0%/0.0%/0.0% |  |
 
-<details><summary>Show specification violation details...</summary>
-
-> **FAIL:** Specification violation for parameter "Open-Loop Gain":<br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.1_ldoota_ext/batch_1/ll_mm/ldoota_ac_ol.csv Index:19 <br>
-
-> **FAIL:** Specification violation for parameter "Phase Margin":<br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.1_ldoota_ext/batch_1/ll_mm/ldoota_ac_ol.csv Index:19 <br>
-
-> **FAIL:** Specification violation for parameter "Unity-Gain Bandwidth":<br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.1_ldoota_ext/batch_1/ll_mm/ldoota_ac_ol.csv Index:19 <br>
-
-> **FAIL:** Specification violation for parameter "3-dB Bandwidth":<br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.1_ldoota_ext/batch_1/ll_mm/ldoota_ac_ol.csv Index:19 <br>
-</details><br>
+<br>
 
 
 # CMRR/PSRR Specification [PEX]<br>
@@ -247,12 +234,12 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| CMRR at 10Hz | 50 / 59.851 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="17.186001600000004,10.0,32.75227199999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="17.186001600000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="32.75227199999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 70.661 / 150 | dB | 1000/100.0%/0.0%/0.0% |  |
-| CMRR at 10MHz | 30 / 39.478 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="71.24505599999999,10.0,118.65136800000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="71.24505599999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="118.65136800000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 46.063 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10Hz | 40 / 40.021 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0332959999999956,10.0,5.039728000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.0332959999999956" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="5.039728000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.275 / 130 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10MHz | -10 / -1.266 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="65.88588,10.0,74.1123624,10.0" style="stroke:green;stroke-width:2" /><circle cx="65.88588" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="74.1123624" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -0.123 / 10 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR- at 10Hz | 30 / 40.632 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="79.54751999999999,10.0,89.99155200000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="79.54751999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="89.99155200000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.082 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR- at 10MHz | 20 / 23.734 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="29.884655999999993,10.0,41.697120000000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="29.884655999999993" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="41.697120000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 25.375 / 40 | dB | 1000/100.0%/0.0%/0.0% |  |
+| CMRR at 10Hz | 50 / 62.208 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="20.579289599999996,10.0,42.0879072,10.0" style="stroke:green;stroke-width:2" /><circle cx="20.579289599999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="42.0879072" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 77.144 / 150 | dB | 1000/100.0%/0.0%/0.0% |  |
+| CMRR at 10MHz | 30 / 40.706 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="80.08478400000001,10.0,114.37816799999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="80.08478400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="114.37816799999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 45.469 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10Hz | 40 / 40.107 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.171392000000003,10.0,7.059407999999996,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.171392000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="7.059407999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.287 / 130 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10MHz | -10 / -1.407 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="64.86852,10.0,74.1602208,10.0" style="stroke:green;stroke-width:2" /><circle cx="64.86852" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="74.1602208" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -0.117 / 10 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR- at 10Hz | 30 / 40.744 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="80.35946400000003,10.0,91.259472,10.0" style="stroke:green;stroke-width:2" /><circle cx="80.35946400000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="91.259472" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.258 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR- at 10MHz | 20 / 23.407 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="27.528023999999988,10.0,42.343248,10.0" style="stroke:green;stroke-width:2" /><circle cx="27.528023999999988" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="42.343248" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 25.464 / 40 | dB | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -261,8 +248,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -20.0 / 0.0 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,137.283456,10.0" style="stroke:green;stroke-width:2" /><circle cx="75.0" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.283456" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 17.301 / 20.0 | mV | 5/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Positive) | 4.0 / 4.094 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="5.24796,10.0,30.39288,10.0" style="stroke:green;stroke-width:2" /><circle cx="5.24796" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="30.39288" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.141 / 10.0 | MV/s | 5/100.0%/0.0%/0.0% |  |
+| Input Offset | -20.0 / 0.0 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,137.28342,10.0" style="stroke:green;stroke-width:2" /><circle cx="75.0" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.28342" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 17.301 / 20.0 | mV | 5/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Positive) | 4.0 / 4.094 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="5.247984000000001,10.0,30.39288,10.0" style="stroke:green;stroke-width:2" /><circle cx="5.247984000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="30.39288" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.141 / 10.0 | MV/s | 5/100.0%/0.0%/0.0% |  |
 | Slew-Rate (Negative) | -10.0 / -2.703 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,118.19999999999999,17,118.19999999999999,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.599999999999994,10.0,60.599999999999994,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="108.08054399999999,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="108.08054399999999" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 0.0 / -2.0 | MV/s | 5/80.0%/20.0%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
@@ -276,17 +263,16 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -20.0 / 0.0 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,5.117503059975521,17,5.117503059975521,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.05875152998776,10.0,4.05875152998776,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.05875152998776,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.05875152998776" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 49000.0 / 20.0 | mV | 1000/81.5%/18.5%/0.0% |  |
-| Slew-Rate (Positive) | 4.0 / 4.101 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="5.430504,10.0,34.551864,10.0" style="stroke:green;stroke-width:2" /><circle cx="5.430504" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="34.551864" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.315 / 10.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Negative) | -10.0 / -2.73 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,118.19943552276594,17,118.19943552276594,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.59971776138297,10.0,60.59971776138297,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="107.68705503343034,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="107.68705503343034" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 0.0 / -2.0 | MV/s | 1000/80.0%/20.0%/0.0% |  |
+| Input Offset | -20.0 / 0.0 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,5.117503059975521,17,5.117503059975521,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.05875152998776,10.0,4.05875152998776,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.05875152998776,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.05875152998776" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 49000.0 / 20.0 | mV | 1000/77.0%/23.0%/0.0% |  |
+| Slew-Rate (Positive) | 4.0 / 4.054 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.2926400000000005,10.0,32.70228,10.0" style="stroke:green;stroke-width:2" /><circle cx="4.2926400000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="32.70228" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.238 / 10.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Negative) | -10.0 / -3.028 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,97.27662332560789,17,97.27662332560789,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="50.13831166280394,10.0,50.13831166280394,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="85.16549475586282,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="85.16549475586282" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 2.219 / -2.0 | MV/s | 1000/83.5%/16.5%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
 
 > **FAIL:** Specification violation for parameter "Input Offset":<br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:1 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:2 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:3 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:5 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:4 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:6 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:7 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:8 <br>
@@ -295,6 +281,7 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:11 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:12 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:13 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:14 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:15 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:16 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:17 <br>
@@ -310,6 +297,7 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:27 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:28 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:29 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:30 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:31 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:32 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:33 <br>
@@ -322,6 +310,7 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:40 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:41 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:42 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:43 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:44 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:45 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:46 <br>
@@ -329,10 +318,10 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:48 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:49 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:1 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:2 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:3 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:4 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:5 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:6 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:7 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:8 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:9 <br>
@@ -342,18 +331,16 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:13 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:14 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:15 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:16 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:17 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:18 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:19 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:20 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:21 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:22 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:23 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:24 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:25 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:26 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:27 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:28 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:29 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:30 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:31 <br>
@@ -367,22 +354,22 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:39 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:40 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:41 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:42 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:43 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:44 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:45 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:46 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:47 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:48 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:49 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:1 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:2 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:3 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:4 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:5 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:6 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:7 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:8 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:9 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:0 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:1 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:2 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:3 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:4 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:5 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:6 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:7 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:8 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ff_mm/ldoota_tran_slew.csv Index:9 <br>
 
 > **FAIL:** Specification violation for parameter "Slew-Rate (Negative)":<br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:0 <br>
@@ -502,7 +489,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.024 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="14.4888288,10.0,19.311192000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="14.4888288" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.311192000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.034 / 0.3 | % | 5/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.024 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="14.4888192,10.0,19.3111872,10.0" style="stroke:green;stroke-width:2" /><circle cx="14.4888192" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.3111872" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.034 / 0.3 | % | 5/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -511,7 +498,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.022 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="13.3683888,10.0,21.747758400000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="13.3683888" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="21.747758400000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.039 / 0.3 | % | 1000/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.021 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="13.3059648,10.0,21.5378544,10.0" style="stroke:green;stroke-width:2" /><circle cx="13.3059648" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="21.5378544" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.039 / 0.3 | % | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 

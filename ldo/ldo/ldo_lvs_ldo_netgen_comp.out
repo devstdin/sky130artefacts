@@ -1,7 +1,19 @@
+
+Circuit 1 cell sky130_fd_pr__pfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__pfet_g5v0d10v5 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__pfet_g5v0d10v5 and sky130_fd_pr__pfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__cap_mim_m3_1 and Circuit 2 cell sky130_fd_pr__cap_mim_m3_1 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__cap_mim_m3_1 and sky130_fd_pr__cap_mim_m3_1 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__nfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__nfet_g5v0d10v5 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__nfet_g5v0d10v5 and sky130_fd_pr__nfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__res_xhigh_po_1p41 and Circuit 2 cell sky130_fd_pr__res_xhigh_po_1p41 are black boxes.
 Equate elements:  no current cell.
+Device classes sky130_fd_pr__res_xhigh_po_1p41 and sky130_fd_pr__res_xhigh_po_1p41 are equivalent.
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_PCRJQC in circuit ldoota (0)(20 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_Y6SSWD in circuit ldoota (0)(20 instances)
 Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_1_WXTTNJ in circuit ldoota (0)(16 instances)
@@ -21,7 +33,6 @@ sky130_fd_pr__res_xhigh_po_1p41 (1)        |sky130_fd_pr__res_xhigh_po_1p41 (1)
 Number of devices: 16                      |Number of devices: 16                      
 Number of nets: 12                         |Number of nets: 12                         
 ---------------------------------------------------------------------------------------
-Circuits match uniquely.
 Netlists match uniquely.
 
 Subcircuit pins:
@@ -47,10 +58,7 @@ sky130_fd_pr__res_xhigh_po_1p41 (3->2)     |sky130_fd_pr__res_xhigh_po_1p41 (2)
 Number of devices: 3                       |Number of devices: 3                       
 Number of nets: 7                          |Number of nets: 7                          
 ---------------------------------------------------------------------------------------
-Circuits match uniquely.
-Property errors were found.
-Netlists match uniquely.
-There were property errors.
+Netlists match uniquely with property errors.
 sky130_fd_pr__res_xhigh_po_1p41_U9Z7Q7_0/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RB:
  l circuit1: 80   circuit2: 85   (delta=6.06%, cutoff=1%)
 
@@ -67,7 +75,9 @@ VREF                                       |VREF
 ---------------------------------------------------------------------------------------
 Cell pin lists are equivalent.
 Device classes ldo and ldo are equivalent.
-Circuits match uniquely.
+
+Final result: Circuits match uniquely.
 Property errors were found.
+
 The following cells had property errors:
  ldo
