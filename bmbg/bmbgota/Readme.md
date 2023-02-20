@@ -1,4 +1,4 @@
-25.11.2022, 14:12:16
+20.02.2023, 18:39:56
 
 # Beta-Multiplier Bandgap OTA
 
