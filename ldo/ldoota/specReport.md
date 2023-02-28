@@ -15,10 +15,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Open-Loop Gain | 60 / 72.189 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.878708,10.0,57.01043999999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.878708" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="57.01043999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 75.003 / 100 | dB | 1000/100.0%/0.0%/0.0% | Gain at 1Hz |
-| Phase Margin | 60 / 90.618 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="91.17983999999998,10.0,125.24044799999997,10.0" style="stroke:green;stroke-width:2" /><circle cx="91.17983999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="125.24044799999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 102.445 / 110 | deg | 1000/100.0%/0.0%/0.0% | Open-Loop |
-| Unity-Gain Bandwidth | 5.0 / 9.003 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.6442656,10.0,115.71628799999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="60.6442656" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="115.71628799999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 12.828 / 15.0 | MHz | 1000/100.0%/0.0%/0.0% |  |
-| 3-dB Bandwidth | 0.1 / 1.163 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.462545454545456,10.0,27.187723636363636,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.462545454545456" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="27.187723636363636" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.763 / 10.0 | kHz | 1000/100.0%/0.0%/0.0% |  |
+| Open-Loop Gain | 60 / 72.163 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.785683999999996,10.0,56.97526799999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.785683999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="56.97526799999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 74.993 / 100 | dB | 1000/100.0%/0.0%/0.0% | Gain at 1Hz |
+| Phase Margin | 60 / 90.461 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="90.72840000000002,10.0,125.61484800000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="90.72840000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="125.61484800000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 102.575 / 110 | deg | 1000/100.0%/0.0%/0.0% | Open-Loop |
+| Unity-Gain Bandwidth | 5.0 / 8.848 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="58.4093568,10.0,116.61815999999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="58.4093568" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="116.61815999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 12.89 / 15.0 | MHz | 1000/100.0%/0.0%/0.0% |  |
+| 3-dB Bandwidth | 0.1 / 1.159 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.409876363636364,10.0,27.384174545454545,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.409876363636364" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="27.384174545454545" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.776 / 10.0 | kHz | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -41,12 +41,12 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| CMRR at 10Hz | 50 / 61.752 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="19.923067200000002,10.0,33.73785120000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="19.923067200000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="33.73785120000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 71.346 / 150 | dB | 1000/100.0%/0.0%/0.0% |  |
-| CMRR at 10MHz | 30 / 41.883 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="88.55687999999999,10.0,106.94575199999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="88.55687999999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="106.94575199999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 44.437 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10Hz | 40 / 40.026 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.042240000000004,10.0,5.068687999999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.042240000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="5.068687999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.293 / 130 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10MHz | -10 / -0.586 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="70.7838888,10.0,77.57128920000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="70.7838888" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="77.57128920000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.357 / 10 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR- at 10Hz | 30 / 40.469 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="78.37874400000001,10.0,89.839848,10.0" style="stroke:green;stroke-width:2" /><circle cx="78.37874400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="89.839848" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.061 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR- at 10MHz | 20 / 27.754 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="58.827935999999994,10.0,74.96601600000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="58.827935999999994" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="74.96601600000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 29.995 / 40 | dB | 1000/100.0%/0.0%/0.0% |  |
+| CMRR at 10Hz | 50 / 61.479 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="19.529745600000005,10.0,32.698185599999995,10.0" style="stroke:green;stroke-width:2" /><circle cx="19.529745600000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="32.698185599999995" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 70.624 / 150 | dB | 1000/100.0%/0.0%/0.0% |  |
+| CMRR at 10MHz | 30 / 41.333 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="84.59659199999997,10.0,104.75313599999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="84.59659199999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="104.75313599999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 44.132 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10Hz | 40 / 40.046 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0742240000000036,10.0,7.002448000000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.0742240000000036" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="7.002448000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.252 / 130 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10MHz | -10 / -0.57 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="70.8987288,10.0,77.12821848,10.0" style="stroke:green;stroke-width:2" /><circle cx="70.8987288" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="77.12821848" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.296 / 10 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR- at 10Hz | 30 / 40.63 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="79.53564000000001,10.0,91.75900800000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="79.53564000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="91.75900800000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.328 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR- at 10MHz | 20 / 27.744 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="58.75658400000001,10.0,72.29222399999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="58.75658400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="72.29222399999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 29.624 / 40 | dB | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -65,8 +65,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Negative Output Bound | -3 / -2.858 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="16.59744000000002,10.0,132.26112,10.0" style="stroke:green;stroke-width:2" /><circle cx="16.59744000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="132.26112" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -1.654 / -1.5 | V | 1000/100.0%/0.0%/0.0% |  |
-| Positive Output Bound | 2.5 / 2.999 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="144.66390399999995,10.0,146.732736,10.0" style="stroke:green;stroke-width:2" /><circle cx="144.66390399999995" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="146.732736" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.999 / 3 | V | 1000/100.0%/0.0%/0.0% |  |
+| Negative Output Bound | -3 / -2.863 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="16.16640000000001,10.0,96.65280000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="16.16640000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.65280000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.024 / -1.5 | V | 1000/100.0%/0.0%/0.0% |  |
+| Positive Output Bound | 2.5 / 2.999 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="144.665056,10.0,146.737344,10.0" style="stroke:green;stroke-width:2" /><circle cx="144.665056" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="146.737344" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 2.999 / 3 | V | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -84,7 +84,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Negative CM Input Bound | -3 / -2.124 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.08831999999998,10.0,95.86272,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.08831999999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="95.86272" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.033 / -1.5 | V | 1000/100.0%/0.0%/0.0% | Input transistor sat. |
+| Negative CM Input Bound | -3 / -2.121 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="87.3456,10.0,96.48192,10.0" style="stroke:green;stroke-width:2" /><circle cx="87.3456" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.48192" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.026 / -1.5 | V | 1000/100.0%/0.0%/0.0% | Input transistor sat. |
 
 <br>
 
@@ -104,63 +104,113 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -20.0 / 14.139 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,146.13745370397984,17,146.13745370397984,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="74.56872685198992,10.0,74.56872685198992,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="125.16377310327965,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="125.16377310327965" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 20.241 / 20.0 | mV | 1000/95.0%/5.0%/0.0% |  |
-| Slew-Rate (Positive) | 4.0 / 4.255 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.116712,10.0,41.715264,10.0" style="stroke:green;stroke-width:2" /><circle cx="9.116712" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="41.715264" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.613 / 10.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Negative) | -10.0 / -3.201 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="125.39082,10.0,137.8038,10.0" style="stroke:green;stroke-width:2" /><circle cx="125.39082" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.8038" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.511 / -2.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
+| Input Offset | -20.0 / 13.0 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,142.33634293383315,17,142.33634293383315,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="72.66817146691658,10.0,72.66817146691658,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="117.9540852883561,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="117.9540852883561" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 21.339 / 20.0 | mV | 1000/90.0%/10.0%/0.0% |  |
+| Slew-Rate (Positive) | 4.0 / 4.144 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="6.4580400000000004,10.0,40.43544,10.0" style="stroke:green;stroke-width:2" /><circle cx="6.4580400000000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="40.43544" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.56 / 10.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Negative) | -10.0 / -3.179 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="125.78106,10.0,137.52408,10.0" style="stroke:green;stroke-width:2" /><circle cx="125.78106" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.52408" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.526 / -2.0 | MV/s | 1000/100.0%/0.0%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
 
 > **FAIL:** Specification violation for parameter "Input Offset":<br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:0 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:1 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:2 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:3 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:4 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:5 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:6 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:7 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:8 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:9 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:10 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:11 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:12 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:13 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:14 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:15 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:16 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:17 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:18 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:19 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:20 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:21 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:22 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:23 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:24 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:25 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:26 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:27 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:28 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:29 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:30 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:31 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:32 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:33 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:34 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:35 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:36 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:37 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:38 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:39 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:40 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:41 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:42 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:43 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:44 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:45 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:46 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:47 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:48 <br>
-> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_1/ff_mm/ldoota_tran_slew.csv Index:49 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:0 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:1 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:2 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:3 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:4 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:5 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:6 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:7 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:8 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:9 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:10 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:11 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:12 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:13 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:14 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:15 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:16 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:17 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:18 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:19 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:20 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:21 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:22 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:23 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:24 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:25 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:26 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:27 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:28 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:29 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:30 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:31 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:32 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:33 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:34 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:35 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:36 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:37 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:38 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:39 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:40 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:41 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:42 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:43 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:44 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:45 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:46 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:47 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:48 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_3/ll_mm/ldoota_tran_slew.csv Index:49 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:0 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:1 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:2 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:3 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:4 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:5 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:6 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:7 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:8 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:9 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:10 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:11 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:12 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:13 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:14 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:15 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:16 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:17 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:18 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:19 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:20 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:21 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:22 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:23 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:24 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:25 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:26 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:27 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:28 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:29 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:30 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:31 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:32 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:33 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:34 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:35 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:36 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:37 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:38 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:39 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:40 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:41 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:42 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:43 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:44 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:45 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:46 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:47 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:48 <br>
+> **FAIL:** group:tt_mm file:work/sim/ldoota/ldoota_tb.5_ldoota/batch_2/tt_mm/ldoota_tran_slew.csv Index:49 <br>
 </details><br>
 
 
@@ -187,7 +237,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.019 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="12.1815888,10.0,19.9078656,10.0" style="stroke:green;stroke-width:2" /><circle cx="12.1815888" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.9078656" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.035 / 0.3 | % | 1000/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.019 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="12.2328048,10.0,19.1658672,10.0" style="stroke:green;stroke-width:2" /><circle cx="12.2328048" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.1658672" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.034 / 0.3 | % | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -197,9 +247,9 @@
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
 | Open-Loop Gain | 60 / 72.316 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="47.337815999999975,10.0,56.54776800000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="47.337815999999975" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="56.54776800000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 74.874 / 100 | dB | 5/100.0%/0.0%/0.0% | Gain at 1Hz |
-| Phase Margin | 60 / 86.605 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="79.62124800000001,10.0,107.16968639999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="79.62124800000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="107.16968639999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 96.17 / 110 | deg | 5/100.0%/0.0%/0.0% | Open-Loop |
-| Unity-Gain Bandwidth | 5.0 / 9.328 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="65.3300112,10.0,73.12215359999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="65.3300112" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="73.12215359999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 9.87 / 15.0 | MHz | 5/100.0%/0.0%/0.0% |  |
-| 3-dB Bandwidth | 0.1 / 1.162 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.45426909090909,10.0,24.918167272727274,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.45426909090909" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="24.918167272727274" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.607 / 10.0 | kHz | 5/100.0%/0.0%/0.0% |  |
+| Phase Margin | 60 / 86.889 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="80.44017599999998,10.0,107.76884159999997,10.0" style="stroke:green;stroke-width:2" /><circle cx="80.44017599999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="107.76884159999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 96.378 / 110 | deg | 5/100.0%/0.0%/0.0% | Open-Loop |
+| Unity-Gain Bandwidth | 5.0 / 9.356 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="65.7293808,10.0,73.59526559999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="65.7293808" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="73.59526559999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 9.902 / 15.0 | MHz | 5/100.0%/0.0%/0.0% |  |
+| 3-dB Bandwidth | 0.1 / 1.158 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.39601454545455,10.0,24.83658181818182,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.39601454545455" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="24.83658181818182" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.601 / 10.0 | kHz | 5/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -208,10 +258,10 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Open-Loop Gain | 60 / 72.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.894656,10.0,56.977932,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.894656" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="56.977932" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 74.994 / 100 | dB | 1000/100.0%/0.0%/0.0% | Gain at 1Hz |
-| Phase Margin | 60 / 85.237 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.68126399999998,10.0,109.5979296,10.0" style="stroke:green;stroke-width:2" /><circle cx="75.68126399999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="109.5979296" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 97.013 / 110 | deg | 1000/100.0%/0.0%/0.0% | Open-Loop |
-| Unity-Gain Bandwidth | 5.0 / 8.209 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.2154464,10.0,97.00766399999999,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.2154464" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="97.00766399999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 11.528 / 15.0 | MHz | 1000/100.0%/0.0%/0.0% |  |
-| 3-dB Bandwidth | 0.1 / 1.096 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="17.490036363636364,10.0,26.360785454545457,10.0" style="stroke:green;stroke-width:2" /><circle cx="17.490036363636364" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="26.360785454545457" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.706 / 10.0 | kHz | 1000/100.0%/0.0%/0.0% |  |
+| Open-Loop Gain | 60 / 72.181 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="46.85329200000002,10.0,57.013392,10.0" style="stroke:green;stroke-width:2" /><circle cx="46.85329200000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="57.013392" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 75.004 / 100 | dB | 1000/100.0%/0.0%/0.0% | Gain at 1Hz |
+| Phase Margin | 60 / 85.506 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="76.45794240000001,10.0,111.08775359999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="76.45794240000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="111.08775359999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 97.53 / 110 | deg | 1000/100.0%/0.0%/0.0% | Open-Loop |
+| Unity-Gain Bandwidth | 5.0 / 8.224 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="49.430870399999996,10.0,104.475504,10.0" style="stroke:green;stroke-width:2" /><circle cx="49.430870399999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="104.475504" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 12.047 / 15.0 | MHz | 1000/100.0%/0.0%/0.0% |  |
+| 3-dB Bandwidth | 0.1 / 1.09 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="17.394429090909092,10.0,26.152014545454545,10.0" style="stroke:green;stroke-width:2" /><circle cx="17.394429090909092" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="26.152014545454545" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 1.692 / 10.0 | kHz | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -221,11 +271,11 @@
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
 | CMRR at 10Hz | 50 / 65.706 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="25.6166256,10.0,27.761446400000004,10.0" style="stroke:green;stroke-width:2" /><circle cx="25.6166256" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="27.761446400000004" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 65.807 / 150 | dB | 5/100.0%/0.0%/0.0% |  |
-| CMRR at 10MHz | 30 / 42.571 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="93.51055199999999,10.0,96.71512800000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="93.51055199999999" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="96.71512800000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 43.016 / 50 | dB | 5/100.0%/0.0%/0.0% |  |
+| CMRR at 10MHz | 30 / 44.153 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="104.90102400000002,10.0,109.064136,10.0" style="stroke:green;stroke-width:2" /><circle cx="104.90102400000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="109.064136" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 44.731 / 50 | dB | 5/100.0%/0.0%/0.0% |  |
 | PSRR+ at 10Hz | 40 / 40.107 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.1707520000000047,10.0,6.991872000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.1707520000000047" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="6.991872000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.245 / 130 | dB | 5/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10MHz | -10 / -0.97 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="68.01452400000001,10.0,70.6508328,10.0" style="stroke:green;stroke-width:2" /><circle cx="68.01452400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="70.6508328" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -0.604 / 10 | dB | 5/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10MHz | -10 / -0.944 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="68.2017888,10.0,70.80536640000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="68.2017888" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="70.80536640000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -0.583 / 10 | dB | 5/100.0%/0.0%/0.0% |  |
 | PSRR- at 10Hz | 30 / 40.803 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="80.77980000000002,10.0,89.175792,10.0" style="stroke:green;stroke-width:2" /><circle cx="80.77980000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="89.175792" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.969 / 50 | dB | 5/100.0%/0.0%/0.0% |  |
-| PSRR- at 10MHz | 20 / 23.891 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.017936000000013,10.0,39.441936,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.017936000000013" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="39.441936" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 25.061 / 40 | dB | 5/100.0%/0.0%/0.0% |  |
+| PSRR- at 10MHz | 20 / 23.961 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="31.51934400000001,10.0,39.439271999999995,10.0" style="stroke:green;stroke-width:2" /><circle cx="31.51934400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="39.439271999999995" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 25.061 / 40 | dB | 5/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -234,38 +284,87 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| CMRR at 10Hz | 50 / 61.83 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="20.035516799999996,10.0,41.28909600000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="20.035516799999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="41.28909600000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 76.59 / 150 | dB | 1000/100.0%/0.0%/0.0% |  |
-| CMRR at 10MHz | 30 / 40.72 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="80.18119200000002,10.0,107.49100799999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="80.18119200000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="107.49100799999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 44.513 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10Hz | 40 / 40.094 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.1497600000000032,10.0,7.015088000000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="3.1497600000000032" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="7.015088000000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.259 / 130 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR+ at 10MHz | -10 / -1.303 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="65.615736,10.0,72.8326776,10.0" style="stroke:green;stroke-width:2" /><circle cx="65.615736" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="72.8326776" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -0.301 / 10 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR- at 10Hz | 30 / 40.671 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="79.82932800000002,10.0,90.73552800000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="79.82932800000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.73552800000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 42.185 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
-| PSRR- at 10MHz | 20 / 23.544 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="28.514999999999997,10.0,41.73549600000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="28.514999999999997" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="41.73549600000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 25.38 / 40 | dB | 1000/100.0%/0.0%/0.0% |  |
+| CMRR at 10Hz | 50 / 60.434 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.0251328,10.0,35.770728000000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="18.0251328" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="35.770728000000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 72.757 / 150 | dB | 1000/100.0%/0.0%/0.0% |  |
+| CMRR at 10MHz | 30 / 42.981 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="96.46428,10.0,127.73935200000003,10.0" style="stroke:green;stroke-width:2" /><circle cx="96.46428" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="127.73935200000003" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 47.325 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR+ at 10Hz | 40 / 39.979 | <svg height="20" width="150"><polyline points="3.033912011837212,3,3.033912011837212,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.01695600591862,10.0,75.01695600591862,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,5.041551101296145,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="5.041551101296145" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 41.255 / 130 | dB | 1000/95.0%/5.0%/0.0% |  |
+| PSRR+ at 10MHz | -10 / -1.441 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="64.622208,10.0,72.49760400000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="64.622208" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="72.49760400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -0.348 / 10 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR- at 10Hz | 30 / 40.466 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="78.35700000000001,10.0,88.94827200000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="78.35700000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="88.94827200000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 41.937 / 50 | dB | 1000/100.0%/0.0%/0.0% |  |
+| PSRR- at 10MHz | 20 / 23.629 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="29.125344000000013,10.0,40.90044000000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="29.125344000000013" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="40.90044000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 25.264 / 40 | dB | 1000/100.0%/0.0%/0.0% |  |
 
-<br>
+<details><summary>Show specification violation details...</summary>
+
+> **FAIL:** Specification violation for parameter "PSRR+ at 10Hz":<br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:0 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:1 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:2 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:3 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:4 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:5 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:6 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:7 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:8 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:9 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:10 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:11 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:12 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:13 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:14 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:15 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:16 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:17 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:18 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:19 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:20 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:21 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:22 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:23 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:24 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:25 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:26 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:27 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:28 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:29 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:30 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:31 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:32 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:33 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:34 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:35 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:36 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:37 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:38 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:39 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:40 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:41 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:42 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:43 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:44 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:45 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:46 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:47 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:48 <br>
+> **FAIL:** group:ff_mm file:work/sim/ldoota/ldoota_tb.2_ldoota_ext/batch_2/ff_mm/ldoota_ac_cmrr_psrr.csv Index:49 <br>
+</details><br>
 
 
 # Slew-Rate/Offset Specification [PEX]<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -20.0 / 0.0 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,137.283456,10.0" style="stroke:green;stroke-width:2" /><circle cx="75.0" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.283456" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 17.301 / 20.0 | mV | 5/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Positive) | 4.0 / 4.094 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="5.247984000000001,10.0,30.392904,10.0" style="stroke:green;stroke-width:2" /><circle cx="5.247984000000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="30.392904" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.141 / 10.0 | MV/s | 5/100.0%/0.0%/0.0% |  |
-| Slew-Rate (Negative) | -10.0 / -2.703 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,118.19999999999999,17,118.19999999999999,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.599999999999994,10.0,60.599999999999994,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="108.08054399999999,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="108.08054399999999" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 0.0 / -2.0 | MV/s | 5/80.0%/20.0%/0.0% |  |
+| Input Offset | -20.0 / 14.986 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="128.95104,10.0,137.283528,10.0" style="stroke:green;stroke-width:2" /><circle cx="128.95104" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="137.283528" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 17.301 / 20.0 | mV | 5/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Positive) | 4.0 / 4.084 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="5.013384,10.0,30.02892,10.0" style="stroke:green;stroke-width:2" /><circle cx="5.013384" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="30.02892" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 5.126 / 10.0 | MV/s | 5/100.0%/0.0%/0.0% |  |
+| Slew-Rate (Negative) | -10.0 / -2.997 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="129.05544,10.0,139.29006,10.0" style="stroke:green;stroke-width:2" /><circle cx="129.05544" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="139.29006" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | -2.428 / -2.0 | MV/s | 5/100.0%/0.0%/0.0% |  |
 
-<details><summary>Show specification violation details...</summary>
-
-> **FAIL:** Specification violation for parameter "Slew-Rate (Negative)":<br>
-> **FAIL:** group:ll file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll/ldoota_tran_slew.csv Index:0 <br>
-</details><br>
+<br>
 
 
 # Slew-Rate/Offset Specification (Monte Carlo) [PEX]<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Input Offset | -20.0 / 0.0 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,5.117503059975521,17,5.117503059975521,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.05875152998776,10.0,4.05875152998776,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.05875152998776,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.05875152998776" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 49000.0 / 20.0 | mV | 1000/81.6%/18.4%/0.0% |  |
-| Slew-Rate (Positive) | 4.0 / 3.992 | <svg height="20" width="150"><polyline points="3.191457106771851,3,3.191457106771851,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.09572855338592,10.0,75.09572855338592,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,32.21707832971704,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="32.21707832971704" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 5.211 / 10.0 | MV/s | 1000/95.0%/5.0%/0.0% |  |
-| Slew-Rate (Negative) | -10.0 / -2.777 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,118.19943552276594,17,118.19943552276594,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="60.59971776138297,10.0,60.59971776138297,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="107.01544232433261,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="107.01544232433261" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 0.0 / -2.0 | MV/s | 1000/80.0%/20.0%/0.0% |  |
+| Input Offset | -20.0 / 0.0 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,5.117503059975521,17,5.117503059975521,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="4.05875152998776,10.0,4.05875152998776,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.05875152998776,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.05875152998776" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 49000.0 / 20.0 | mV | 1000/80.8%/19.2%/0.0% |  |
+| Slew-Rate (Positive) | 4.0 / 3.847 | <svg height="20" width="150"><polyline points="6.582632126811185,3,6.582632126811185,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="76.7913160634056,10.0,76.7913160634056,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="3.0,10.0,38.18353736377768,10.0" style="stroke:red;stroke-width:2" /><circle cx="3.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="38.18353736377768" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 5.35 / 10.0 | MV/s | 1000/95.0%/5.0%/0.0% |  |
+| Slew-Rate (Negative) | -10.0 / -3.039 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,105.56983741612335,17,105.56983741612335,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="54.284918708061674,10.0,54.284918708061674,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="92.2426820160529,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="92.2426820160529" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 1.231 / -2.0 | MV/s | 1000/97.9%/2.1%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
 
@@ -280,11 +379,9 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:8 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:9 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:10 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:11 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:12 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:13 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:14 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:15 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:16 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:17 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:18 <br>
@@ -302,7 +399,6 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:30 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:31 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:32 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:33 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:34 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:35 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:36 <br>
@@ -341,7 +437,6 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:20 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:21 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:22 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:23 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:24 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:25 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:26 <br>
@@ -370,160 +465,85 @@
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:49 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:1 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:2 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:3 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:4 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:5 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:6 <br>
 
 > **FAIL:** Specification violation for parameter "Slew-Rate (Positive)":<br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:0 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:1 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:2 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:3 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:4 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:5 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:6 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:7 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:8 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:9 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:10 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:11 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:12 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:13 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:14 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:15 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:16 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:17 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:18 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:19 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:20 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:21 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:22 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:23 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:24 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:25 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:26 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:27 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:28 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:29 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:30 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:31 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:32 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:33 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:34 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:35 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:36 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:37 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:38 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:39 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:40 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:41 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:42 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:43 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:44 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:45 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:46 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:47 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:48 <br>
-> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/hh_mm/ldoota_tran_slew.csv Index:49 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:0 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:1 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:2 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:3 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:4 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:5 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:6 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:7 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:8 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:9 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:10 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:11 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:12 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:13 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:14 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:15 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:16 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:17 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:18 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:19 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:20 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:21 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:22 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:23 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:24 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:25 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:26 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:27 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:28 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:29 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:30 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:31 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:32 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:33 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:34 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:35 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:36 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:37 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:38 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:39 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:40 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:41 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:42 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:43 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:44 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:45 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:46 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:47 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:48 <br>
+> **FAIL:** group:hh_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/hh_mm/ldoota_tran_slew.csv Index:49 <br>
 
 > **FAIL:** Specification violation for parameter "Slew-Rate (Negative)":<br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:0 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:1 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:2 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:3 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:4 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:5 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:6 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:7 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:8 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:9 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:10 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:11 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:12 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:13 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:14 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:15 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:16 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:17 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:18 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:19 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:20 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:21 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:22 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:23 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:24 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:25 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:26 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:27 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:28 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:29 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:30 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:31 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:32 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:33 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:34 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:35 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:36 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:37 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:38 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:39 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:40 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:41 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:42 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:43 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:44 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:45 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:46 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:47 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:48 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_1/ll_mm/ldoota_tran_slew.csv Index:49 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:0 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:1 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:2 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:3 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:4 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:5 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:6 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:7 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:8 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:9 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:10 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:11 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:12 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:13 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:14 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:15 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:16 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:17 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:18 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:19 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:20 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:21 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:22 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:23 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:24 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:25 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:26 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:27 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:28 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:29 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:30 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:31 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:32 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:33 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:34 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:35 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:36 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:37 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:38 <br>
 > **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:39 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:40 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:41 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:42 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:43 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:44 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:45 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:46 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:47 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:48 <br>
-> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_3/ll_mm/ldoota_tran_slew.csv Index:49 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:9 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:11 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:16 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:18 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:33 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:34 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_0/ll_mm/ldoota_tran_slew.csv Index:36 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:6 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:10 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:14 <br>
+> **FAIL:** group:ll_mm file:work/sim/ldoota/ldoota_tb.5_ldoota_ext/batch_2/ll_mm/ldoota_tran_slew.csv Index:49 <br>
 </details><br>
 
 
@@ -541,7 +561,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.024 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="14.488857600000001,10.0,19.311192000000002,10.0" style="stroke:green;stroke-width:2" /><circle cx="14.488857600000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.311192000000002" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.034 / 0.3 | % | 5/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.024 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="14.3876448,10.0,19.1301696,10.0" style="stroke:green;stroke-width:2" /><circle cx="14.3876448" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="19.1301696" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.034 / 0.3 | % | 5/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -550,7 +570,7 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| THD | 0 / 0.021 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="13.209979200000001,10.0,21.849072,10.0" style="stroke:green;stroke-width:2" /><circle cx="13.209979200000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="21.849072" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.039 / 0.3 | % | 999/100.0%/0.0%/0.0% |  |
+| THD | 0 / 0.021 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="13.2608208,10.0,22.644820799999998,10.0" style="stroke:green;stroke-width:2" /><circle cx="13.2608208" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="22.644820799999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.041 / 0.3 | % | 1000/100.0%/0.0%/0.0% |  |
 
 <br>
 
