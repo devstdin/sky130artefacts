@@ -1,4 +1,4 @@
-24.04.2023, 19:16:01
+25.04.2023, 08:59:58
 
 # Beta-Multiplier Bandgap OTA
 
