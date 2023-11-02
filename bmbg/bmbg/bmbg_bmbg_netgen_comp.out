@@ -41,7 +41,9 @@ sky130_fd_pr__res_xhigh_po_1p41 (1)        |sky130_fd_pr__res_xhigh_po_1p41 (1)
 Number of devices: 12                      |Number of devices: 12                      
 Number of nets: 10                         |Number of nets: 10                         
 ---------------------------------------------------------------------------------------
-Netlists match uniquely.
+Netlists match uniquely with property errors.
+sky130_fd_pr__res_xhigh_po_1p41_VXUL7W_0/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:R1:
+ l circuit1: 7.16   circuit2: 7   (delta=2.26%, cutoff=1%)
 
 Subcircuit pins:
 Circuit 1: bmbgota                         |Circuit 2: bmbgota                         
@@ -95,3 +97,6 @@ Cell pin lists for bmbg and bmbg_xschem.spice altered to match.
 Device classes bmbg and bmbg_xschem.spice are equivalent.
 
 Final result: Top level cell failed pin matching.
+
+The following cells had property errors:
+ bmbgota
