@@ -1,4 +1,4 @@
-10.01.2024, 11:56:39
+13.01.2024, 02:34:10
 
 # 5 V ADC
 
@@ -9,6 +9,11 @@
 <br>
 
 [🔗 Schematics](sar8_sch.pdf)<br>
+
+# LVS
+LVS-state: Netlists match uniquely.<br>
+
+[🔗 LVS-report](sar8_sar8_netgen_comp.out)<br>
 
 # SPECIFICATIONS
 
