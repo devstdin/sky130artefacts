@@ -1,26 +1,87 @@
 
 Circuit 1 cell sky130_fd_pr__nfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__nfet_g5v0d10v5 are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_g5v0d10v5 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_g5v0d10v5 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__nfet_g5v0d10v5    |Circuit 2: sky130_fd_pr__nfet_g5v0d10v5    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__nfet_g5v0d10v5 and sky130_fd_pr__nfet_g5v0d10v5 are equivalent.
 
 Circuit 1 cell sky130_fd_pr__cap_mim_m3_1 and Circuit 2 cell sky130_fd_pr__cap_mim_m3_1 are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__cap_mim_m3_1 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__cap_mim_m3_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__cap_mim_m3_1      |Circuit 2: sky130_fd_pr__cap_mim_m3_1      
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__cap_mim_m3_1 and sky130_fd_pr__cap_mim_m3_1 are equivalent.
 
 Circuit 1 cell sky130_fd_pr__pfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__pfet_g5v0d10v5 are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_g5v0d10v5 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_g5v0d10v5 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_g5v0d10v5    |Circuit 2: sky130_fd_pr__pfet_g5v0d10v5    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__pfet_g5v0d10v5 and sky130_fd_pr__pfet_g5v0d10v5 are equivalent.
 
 Circuit 1 cell sky130_fd_pr__res_xhigh_po_1p41 and Circuit 2 cell sky130_fd_pr__res_xhigh_po_1p41 are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__res_xhigh_po_1p41 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__res_xhigh_po_1p41 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__res_xhigh_po_1p41 |Circuit 2: sky130_fd_pr__res_xhigh_po_1p41 
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__res_xhigh_po_1p41 and sky130_fd_pr__res_xhigh_po_1p41 are equivalent.
 
 Circuit 1 cell sky130_fd_pr__pnp_05v5_W3p40L3p40 and Circuit 2 cell sky130_fd_pr__pnp_05v5_W3p40L3p40 are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__pnp_05v5_W3p40L3p40 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pnp_05v5_W3p40L3p40 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pnp_05v5_W3p40L3p |Circuit 2: sky130_fd_pr__pnp_05v5_W3p40L3p 
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__pnp_05v5_W3p40L3p40 and sky130_fd_pr__pnp_05v5_W3p40L3p40 are equivalent.
 
 Circuit 1 cell sky130_fd_pr__res_xhigh_po_0p69 and Circuit 2 cell sky130_fd_pr__res_xhigh_po_0p69 are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__res_xhigh_po_0p69 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__res_xhigh_po_0p69 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__res_xhigh_po_0p69 |Circuit 2: sky130_fd_pr__res_xhigh_po_0p69 
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__res_xhigh_po_0p69 and sky130_fd_pr__res_xhigh_po_0p69 are equivalent.
 Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_DP5JSB in circuit bmbgota (0)(10 instances)
 Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_1_5WMUWD in circuit bmbgota (0)(1 instance)
@@ -67,9 +128,9 @@ Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_AWLLPD in circuit b
 
 Class bmbg (0):  Merged 24 parallel devices.
 Class bmbg (0):  Merged 12 series devices.
-Class bmbg_xschem.spice (1):  Merged 11 parallel devices.
+Class bmbg (1):  Merged 11 parallel devices.
 Subcircuit summary:
-Circuit 1: bmbg                            |Circuit 2: bmbg_xschem.spice               
+Circuit 1: bmbg                            |Circuit 2: bmbg                            
 -------------------------------------------|-------------------------------------------
 sky130_fd_pr__pnp_05v5_W3p40L3p40 (10->3)  |sky130_fd_pr__pnp_05v5_W3p40L3p40 (10->3)  
 sky130_fd_pr__res_xhigh_po_1p41 (15->3)    |sky130_fd_pr__res_xhigh_po_1p41 (6->3)     
@@ -79,24 +140,32 @@ sky130_fd_pr__res_xhigh_po_0p69 (4->1)     |sky130_fd_pr__res_xhigh_po_0p69 (1)
 Number of devices: 14                      |Number of devices: 14                      
 Number of nets: 10                         |Number of nets: 10                         
 ---------------------------------------------------------------------------------------
-Netlists match uniquely with port errors.
+Netlists match uniquely with property errors.
+sky130_fd_pr__res_xhigh_po_1p41_T6AZ92_6/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF1:
+ l circuit1: 68.6   circuit2: 67   (delta=2.36%, cutoff=1%)
+sky130_fd_pr__res_xhigh_po_1p41_AWLLPD_1/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF2:
+ l circuit1: 7.16   circuit2: 7   (delta=2.26%, cutoff=1%)
+sky130_fd_pr__res_xhigh_po_1p41_T6AZ92_10/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF3:
+ l circuit1: 6.86   circuit2: 6.7   (delta=2.36%, cutoff=1%)
+sky130_fd_pr__res_xhigh_po_1p41_T6AZ92_10/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF3:
+ l circuit1: 7.16   circuit2: 7   (delta=2.26%, cutoff=1%)
+Circuit 2 bmbg instance sky130_fd_pr__pnp_05v5_W3p40L3p40:Q1 property "m" has no match in circuit 1.
+Circuit 2 bmbg instance sky130_fd_pr__pnp_05v5_W3p40L3p40:Q3 property "m" has no match in circuit 1.
 
 Subcircuit pins:
-Circuit 1: bmbg                            |Circuit 2: bmbg_xschem.spice               
+Circuit 1: bmbg                            |Circuit 2: bmbg                            
 -------------------------------------------|-------------------------------------------
-IB                                         |(no matching pin)                          
-VDD                                        |(no matching pin)                          
-VREF                                       |(no matching pin)                          
-VSS                                        |(no matching pin)                          
-VDD                                        |(no matching pin)                          
-VSS                                        |(no matching pin)                          
-IB                                         |(no matching pin)                          
-VREF                                       |(no matching pin)                          
+IB                                         |IB                                         
+VDD                                        |VDD                                        
+VREF                                       |VREF                                       
+VSS                                        |VSS                                        
 ---------------------------------------------------------------------------------------
-Cell pin lists for bmbg and bmbg_xschem.spice altered to match.
-Device classes bmbg and bmbg_xschem.spice are equivalent.
+Cell pin lists are equivalent.
+Device classes bmbg and bmbg are equivalent.
 
-Final result: Top level cell failed pin matching.
+Final result: Circuits match uniquely.
+Property errors were found.
 
 The following cells had property errors:
  bmbgota
+ bmbg
