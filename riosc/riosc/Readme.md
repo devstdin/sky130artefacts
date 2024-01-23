@@ -1,4 +1,4 @@
-23.01.2024, 09:30:37
+23.01.2024, 10:44:08
 
 # Ring Oscillator
 
@@ -43,7 +43,7 @@ LVS-state: Netlists match uniquely.<br>
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| High Duration | 10.0 / 46.695 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="61.711999999999996,10.0,90.1936,10.0" style="stroke:green;stroke-width:2" /><circle cx="61.711999999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.1936" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 64.496 / 100.0 | ns | 45/100.0%/0.0%/0.0% | Last period before oscillator disable |
+| High Duration | 10.0 / 46.695 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="61.711999999999996,10.0,90.192,10.0" style="stroke:green;stroke-width:2" /><circle cx="61.711999999999996" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="90.192" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 64.495 / 100.0 | ns | 45/100.0%/0.0%/0.0% | Last period before oscillator disable |
 | Period Duration | 20.0 / 96.076 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="63.860775999999994,10.0,95.77224,10.0" style="stroke:green;stroke-width:2" /><circle cx="63.860775999999994" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="95.77224" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 135.965 / 200.0 | ns | 45/100.0%/0.0%/0.0% | First period after oscillator enable |
 | Duty-Cycle | 40 / 45.678 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="43.88361600000001,10.0,78.70202400000001,10.0" style="stroke:green;stroke-width:2" /><circle cx="43.88361600000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="78.70202400000001" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 50.514 / 60 | % | 45/100.0%/0.0%/0.0% | First period after oscillator enable |
 

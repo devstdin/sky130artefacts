@@ -1,14 +1,47 @@
 
 Circuit 1 cell sky130_fd_pr__nfet_01v8 and Circuit 2 cell sky130_fd_pr__nfet_01v8 are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_01v8 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_01v8 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__nfet_01v8         |Circuit 2: sky130_fd_pr__nfet_01v8         
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__nfet_01v8 and sky130_fd_pr__nfet_01v8 are equivalent.
 
 Circuit 1 cell sky130_fd_pr__pfet_01v8 and Circuit 2 cell sky130_fd_pr__pfet_01v8 are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_01v8         |Circuit 2: sky130_fd_pr__pfet_01v8         
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__pfet_01v8 and sky130_fd_pr__pfet_01v8 are equivalent.
 
 Circuit 1 cell sky130_fd_pr__pfet_01v8_hvt and Circuit 2 cell sky130_fd_pr__pfet_01v8_hvt are black boxes.
-Equate elements:  no current cell.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8_hvt is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8_hvt is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_01v8_hvt     |Circuit 2: sky130_fd_pr__pfet_01v8_hvt     
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
 Device classes sky130_fd_pr__pfet_01v8_hvt and sky130_fd_pr__pfet_01v8_hvt are equivalent.
 
 Class sky130_fd_sc_hd__inv_4 (0):  Merged 6 parallel devices.
@@ -93,7 +126,7 @@ Flattening unmatched subcell sky130_fd_pr__nfet_01v8_HW54L5 in circuit riosc (0)
 
 Class riosc (0):  Merged 4 parallel devices.
 Subcircuit summary:
-Circuit 1: riosc                           |Circuit 2: riosc_xschem.spice              
+Circuit 1: riosc                           |Circuit 2: riosc                           
 -------------------------------------------|-------------------------------------------
 sky130_fd_pr__nfet_01v8 (18->14)           |sky130_fd_pr__nfet_01v8 (18->14)           
 sky130_fd_pr__pfet_01v8 (11)               |sky130_fd_pr__pfet_01v8 (11)               
@@ -103,25 +136,20 @@ sky130_fd_sc_hd__dfrtn_1 (3)               |sky130_fd_sc_hd__dfrtn_1 (3)
 Number of devices: 32                      |Number of devices: 32                      
 Number of nets: 29                         |Number of nets: 29                         
 ---------------------------------------------------------------------------------------
-Netlists match uniquely with port errors.
+Netlists match uniquely.
 
 Subcircuit pins:
-Circuit 1: riosc                           |Circuit 2: riosc_xschem.spice              
+Circuit 1: riosc                           |Circuit 2: riosc                           
 -------------------------------------------|-------------------------------------------
-RESET                                      |(no matching pin)                          
-VDD                                        |(no matching pin)                          
-OSC                                        |(no matching pin)                          
-IB                                         |(no matching pin)                          
-EN                                         |(no matching pin)                          
-VSS                                        |(no matching pin)                          
-VDD                                        |(no matching pin)                          
-VSS                                        |(no matching pin)                          
-IB                                         |(no matching pin)                          
-EN                                         |(no matching pin)                          
-RESET                                      |(no matching pin)                          
-OSC                                        |(no matching pin)                          
+RESET                                      |RESET                                      
+VDD                                        |VDD                                        
+OSC                                        |OSC                                        
+IB                                         |IB                                         
+EN                                         |EN                                         
+VSS                                        |VSS                                        
 ---------------------------------------------------------------------------------------
-Cell pin lists for riosc and riosc_xschem.spice altered to match.
-Device classes riosc and riosc_xschem.spice are equivalent.
+Cell pin lists are equivalent.
+Device classes riosc and riosc are equivalent.
 
-Final result: Top level cell failed pin matching.
+Final result: Circuits match uniquely.
+.
