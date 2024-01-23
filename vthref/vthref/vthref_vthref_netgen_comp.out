@@ -83,19 +83,38 @@ Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_N98HAS in circuit vthr
 
 Class vthref (0):  Merged 37 parallel devices.
 Class vthref (0):  Merged 5 series devices.
+Subcircuit summary:
+Circuit 1: vthref                          |Circuit 2: vthref                          
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__diode_pd2nw_11v0 (1)         |sky130_fd_pr__diode_pd2nw_11v0 (1)         
+sky130_fd_pr__pfet_g5v0d10v5 (5)           |sky130_fd_pr__pfet_g5v0d10v5 (5)           
+sky130_fd_pr__nfet_g5v0d10v5 (17->5)       |sky130_fd_pr__nfet_g5v0d10v5 (14->5)       
+sky130_fd_pr__res_xhigh_po_0p69 (5->1)     |sky130_fd_pr__res_xhigh_po_0p69 (1)        
+sky130_fd_pr__res_xhigh_po_1p41 (2->1)     |sky130_fd_pr__res_xhigh_po_1p41 (1)        
+sky130_fd_pr__nfet_01v8 (29->4)            |sky130_fd_pr__nfet_01v8 (29->4)            
+Number of devices: 17                      |Number of devices: 17                      
+Number of nets: 13                         |Number of nets: 13                         
+---------------------------------------------------------------------------------------
+Netlists match uniquely with property errors.
+sky130_fd_pr__diode_pd2nw_11v0_AZAYX8:DSU/sky130_fd_pr__diode_pd2nw_11v0:0 vs. sky130_fd_pr__diode_pd2nw_11v0:SU:
+ area circuit1: 1e+12   circuit2: 1   (delta=200%, cutoff=2%)
 
 Subcircuit pins:
-Circuit 1: vthref                          |Circuit 2: vthref_xschem.spice             
+Circuit 1: vthref                          |Circuit 2: vthref                          
 -------------------------------------------|-------------------------------------------
-VDD                                        |(no matching pin)                          
-VSS                                        |(no matching pin)                          
-ISOURCE                                    |(no matching pin)                          
-ISINK                                      |(no matching pin)                          
-VSOURCE                                    |(no matching pin)                          
-VSINKT                                     |(no matching pin)                          
-VSINKB                                     |(no matching pin)                          
+ISINK                                      |ISINK                                      
+ISOURCE                                    |ISOURCE                                    
+VSS                                        |VSS                                        
+VSOURCE                                    |VSOURCE                                    
+VDD                                        |VDD                                        
+VSINKT                                     |VSINKT                                     
+VSINKB                                     |VSINKB                                     
 ---------------------------------------------------------------------------------------
 Cell pin lists are equivalent.
-Device classes vthref and vthref_xschem.spice are equivalent.
+Device classes vthref and vthref are equivalent.
 
-Final result: Verify:  cell vthref_xschem.spice has no elements and/or nodes.  Not checked.
+Final result: Circuits match uniquely.
+Property errors were found.
+
+The following cells had property errors:
+ vthref

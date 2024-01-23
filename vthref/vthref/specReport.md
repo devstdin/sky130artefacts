@@ -13,8 +13,8 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Current Curvature (Sink) | 0.0 / 0.191 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.482198399999998,10.0,47.946576,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.482198399999998" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.946576" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.312 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
-| Output Current Curvature (Source) | 0.0 / 0.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.7857216,10.0,46.8034608,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.7857216" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="46.8034608" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.304 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Sink) | 0.0 / 0.191 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.5331024,10.0,48.069192,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.5331024" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="48.069192" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.313 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
+| Output Current Curvature (Source) | 0.0 / 0.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,147.0,17,147.0,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="75.0,10.0,75.0,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="30.8407296,10.0,47.147260800000005,10.0" style="stroke:green;stroke-width:2" /><circle cx="30.8407296" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /><circle cx="47.147260800000005" cy="10.0" r="3" style="fill:green;stroke:green;stroke-width:0" /></svg> | 0.307 / 1.0 | uA | 500/100.0%/0.0%/0.0% |  |
 
 <br>
 
@@ -33,15 +33,17 @@
 
 | Parameter | Min (Spec. / Sim.) |      | Max (Sim. / Spec.) | Unit | Checks (total/pass/fail/NaN) | Comment |
 | :-------- | -----------------: | :--: | :----------------- | :--- | :--------------------------- | ------- |
-| Output Current Curvature (Sink) | 0.0 / 0.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,33.6846578202514,17,33.6846578202514,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.3423289101257,10.0,18.3423289101257,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="8.919908184684989,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="8.919908184684989" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 4.693 / 1.0 | uA | 500/99.8%/0.2%/0.0% |  |
-| Output Current Curvature (Source) | 0.0 / 0.2 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,34.16211984648328,17,34.16211984648328,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.58105992324164,10.0,18.58105992324164,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.228120480545856,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="9.228120480545856" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 4.621 / 1.0 | uA | 500/99.8%/0.2%/0.0% |  |
+| Output Current Curvature (Sink) | 0.0 / 0.193 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,33.706950774198994,17,33.706950774198994,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.353475387099497,10.0,18.353475387099497,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="8.935248252902447,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="8.935248252902447" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 4.689 / 1.0 | uA | 500/99.6%/0.4%/0.0% |  |
+| Output Current Curvature (Source) | 0.0 / 0.197 | <svg height="20" width="150"><polyline points="3.0,3,3.0,17,34.15451492744784,17,34.15451492744784,3" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="18.57725746372392,10.0,18.57725746372392,17" style="fill:none;stroke:gray;stroke-width:1" /><polyline points="9.12350714163167,10.0,147.0,10.0" style="stroke:red;stroke-width:2" /><circle cx="9.12350714163167" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /><circle cx="147.0" cy="10.0" r="3" style="fill:red;stroke:red;stroke-width:0" /></svg> | 4.622 / 1.0 | uA | 500/99.6%/0.4%/0.0% |  |
 
 <details><summary>Show specification violation details...</summary>
 
 > **FAIL:** Specification violation for parameter "Output Current Curvature (Sink)":<br>
-> **FAIL:** group:ff_mm file:work/sim/vthref/vthref_tb.4_dcext/batch_2/ff_mm/dc.csv Index:2 <br>
+> **FAIL:** group:ff_mm file:work/sim/vthref/vthref_tb.4_dcext/batch_0/ff_mm/dc.csv Index:7 <br>
+> **FAIL:** group:ll_mm file:work/sim/vthref/vthref_tb.4_dcext/batch_0/ll_mm/dc.csv Index:10 <br>
 
 > **FAIL:** Specification violation for parameter "Output Current Curvature (Source)":<br>
-> **FAIL:** group:ff_mm file:work/sim/vthref/vthref_tb.4_dcext/batch_2/ff_mm/dc.csv Index:2 <br>
+> **FAIL:** group:ff_mm file:work/sim/vthref/vthref_tb.4_dcext/batch_0/ff_mm/dc.csv Index:7 <br>
+> **FAIL:** group:ll_mm file:work/sim/vthref/vthref_tb.4_dcext/batch_0/ll_mm/dc.csv Index:10 <br>
 </details><br>
 
