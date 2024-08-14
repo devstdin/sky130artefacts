@@ -1,4 +1,4 @@
-14.08.2024, 20:40:08
+14.08.2024, 21:35:20
 
 # ADC Transmission Gate / Sample Switch
 
