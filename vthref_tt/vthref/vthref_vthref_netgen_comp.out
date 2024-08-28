@@ -95,9 +95,7 @@ sky130_fd_pr__nfet_g5v0d10v5 (17->5)       |sky130_fd_pr__nfet_g5v0d10v5 (14->5)
 Number of devices: 17                      |Number of devices: 17                      
 Number of nets: 13                         |Number of nets: 13                         
 ---------------------------------------------------------------------------------------
-Netlists match uniquely with property errors.
-sky130_fd_pr__diode_pd2nw_11v0_AZAYX8:DSU/sky130_fd_pr__diode_pd2nw_11v0:0 vs. sky130_fd_pr__diode_pd2nw_11v0:SU:
- area circuit1: 1e+12   circuit2: 1   (delta=200%, cutoff=2%)
+Netlists match uniquely.
 
 Subcircuit pins:
 Circuit 1: vthref                          |Circuit 2: vthref                          
@@ -114,7 +112,4 @@ Cell pin lists are equivalent.
 Device classes vthref and vthref are equivalent.
 
 Final result: Circuits match uniquely.
-Property errors were found.
-
-The following cells had property errors:
- vthref
+.
