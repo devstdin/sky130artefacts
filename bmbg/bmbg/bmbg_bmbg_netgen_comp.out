@@ -87,8 +87,8 @@ Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_DP5JSB in circuit bmbg
 Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_1_5WMUWD in circuit bmbgota (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_WL3UED in circuit bmbgota (0)(18 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_JNK3YL in circuit bmbgota (0)(6 instances)
+Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_P8QAYG in circuit bmbgota (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_RQRC42 in circuit bmbgota (0)(4 instances)
-Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_VXUL7W in circuit bmbgota (0)(1 instance)
 
 Class bmbgota (0):  Merged 28 parallel devices.
 Class bmbgota (1):  Merged 2 parallel devices.
@@ -102,9 +102,7 @@ sky130_fd_pr__res_xhigh_po_1p41 (1)        |sky130_fd_pr__res_xhigh_po_1p41 (1)
 Number of devices: 12                      |Number of devices: 12                      
 Number of nets: 10                         |Number of nets: 10                         
 ---------------------------------------------------------------------------------------
-Netlists match uniquely with property errors.
-sky130_fd_pr__res_xhigh_po_1p41_VXUL7W_0/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:R1:
- l circuit1: 7.16   circuit2: 7   (delta=2.26%, cutoff=1%)
+Netlists match uniquely.
 
 Subcircuit pins:
 Circuit 1: bmbgota                         |Circuit 2: bmbgota                         
@@ -118,13 +116,13 @@ VSS                                        |VSS
 ---------------------------------------------------------------------------------------
 Cell pin lists are equivalent.
 Device classes bmbgota and bmbgota are equivalent.
+Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_T77NL5 in circuit bmbg (0)(12 instances)
+Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_2SU5Y8 in circuit bmbg (0)(11 instances)
 Flattening unmatched subcell sky130_fd_pr__rf_pnp_05v5_W3p40L3p40 in circuit bmbg (0)(10 instances)
-Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_T6AZ92 in circuit bmbg (0)(12 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_XYTFBH in circuit bmbg (0)(14 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_ZL3LRV in circuit bmbg (0)(5 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_Y6SSWD in circuit bmbg (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_0p69_7V2R7J in circuit bmbg (0)(7 instances)
-Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_AWLLPD in circuit bmbg (0)(11 instances)
 
 Class bmbg (0):  Merged 26 parallel devices.
 Class bmbg (0):  Merged 19 series devices.
@@ -132,29 +130,15 @@ Class bmbg (1):  Merged 13 parallel devices.
 Subcircuit summary:
 Circuit 1: bmbg                            |Circuit 2: bmbg                            
 -------------------------------------------|-------------------------------------------
-sky130_fd_pr__pnp_05v5_W3p40L3p40 (10->3)  |sky130_fd_pr__pnp_05v5_W3p40L3p40 (10->3)  
 sky130_fd_pr__res_xhigh_po_1p41 (23->5)    |sky130_fd_pr__res_xhigh_po_1p41 (10->5)    
+sky130_fd_pr__pnp_05v5_W3p40L3p40 (10->3)  |sky130_fd_pr__pnp_05v5_W3p40L3p40 (10->3)  
 sky130_fd_pr__pfet_g5v0d10v5 (20->6)       |sky130_fd_pr__pfet_g5v0d10v5 (11->6)       
 bmbgota (1)                                |bmbgota (1)                                
 sky130_fd_pr__res_xhigh_po_0p69 (7->1)     |sky130_fd_pr__res_xhigh_po_0p69 (1)        
 Number of devices: 16                      |Number of devices: 16                      
 Number of nets: 12                         |Number of nets: 12                         
 ---------------------------------------------------------------------------------------
-Netlists match uniquely with property errors.
-sky130_fd_pr__res_xhigh_po_1p41_T6AZ92_6/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF1:
- l circuit1: 68.6   circuit2: 67   (delta=2.36%, cutoff=1%)
-sky130_fd_pr__res_xhigh_po_1p41_T6AZ92_10/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF3:
- l circuit1: 6.86   circuit2: 6.7   (delta=2.36%, cutoff=1%)
-sky130_fd_pr__res_xhigh_po_1p41_T6AZ92_10/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF3:
- l circuit1: 7.16   circuit2: 7   (delta=2.26%, cutoff=1%)
-sky130_fd_pr__res_xhigh_po_1p41_AWLLPD_8/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF7:
- l circuit1: 21.48   circuit2: 21   (delta=2.26%, cutoff=1%)
-sky130_fd_pr__res_xhigh_po_1p41_AWLLPD_5/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF8:
- l circuit1: 21.48   circuit2: 21   (delta=2.26%, cutoff=1%)
-sky130_fd_pr__res_xhigh_po_1p41_AWLLPD_1/sky130_fd_pr__res_xhigh_po_1p41:0 vs. sky130_fd_pr__res_xhigh_po_1p41:RREF2:
- l circuit1: 7.16   circuit2: 7   (delta=2.26%, cutoff=1%)
-Circuit 2 bmbg instance sky130_fd_pr__pnp_05v5_W3p40L3p40:Q1 property "m" has no match in circuit 1.
-Circuit 2 bmbg instance sky130_fd_pr__pnp_05v5_W3p40L3p40:Q3 property "m" has no match in circuit 1.
+Netlists match uniquely.
 
 Subcircuit pins:
 Circuit 1: bmbg                            |Circuit 2: bmbg                            
@@ -168,8 +152,4 @@ Cell pin lists are equivalent.
 Device classes bmbg and bmbg are equivalent.
 
 Final result: Circuits match uniquely.
-Property errors were found.
-
-The following cells had property errors:
- bmbgota
- bmbg
+.
