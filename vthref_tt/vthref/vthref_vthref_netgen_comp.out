@@ -116,8 +116,8 @@ Circuit 1: vthref                          |Circuit 2: vthref
 ISINK                                      |ISINK                                      
 ISOURCE                                    |ISOURCE                                    
 VSOURCE                                    |VSOURCE                                    
-VDD                                        |VDD                                        
 VSS                                        |VSS                                        
+VDD                                        |VDD                                        
 VSINKT                                     |VSINKT                                     
 VSINKB                                     |VSINKB                                     
 ---------------------------------------------------------------------------------------
