@@ -121,8 +121,8 @@ Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_1p41_2SU5Y8 in circuit b
 Flattening unmatched subcell sky130_fd_pr__rf_pnp_05v5_W3p40L3p40 in circuit bmbg (0)(10 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_XYTFBH in circuit bmbg (0)(14 instances)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_ZL3LRV in circuit bmbg (0)(5 instances)
-Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_Y6SSWD in circuit bmbg (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_0p69_7V2R7J in circuit bmbg (0)(7 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_SSAD3V in circuit bmbg (0)(1 instance)
 
 Class bmbg (0):  Merged 26 parallel devices.
 Class bmbg (0):  Merged 19 series devices.
