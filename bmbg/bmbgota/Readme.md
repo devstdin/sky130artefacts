@@ -1,5 +1,3 @@
-04.09.2024, 10:20:07
-
 # Beta-Multiplier Bandgap OTA
 
 OTA for Beta-Multiplier Bandgap.

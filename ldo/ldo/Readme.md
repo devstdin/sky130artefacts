@@ -1,5 +1,3 @@
-04.09.2024, 10:20:07
-
 # 1.8 V LDO
 
 1.8 V linear regulator.

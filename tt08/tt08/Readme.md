@@ -1,5 +1,3 @@
-04.09.2024, 10:20:07
-
 # Tiny Tapeout 8
 
 Analog building-blocks for Tiny Tapeout 8:

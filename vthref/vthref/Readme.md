@@ -1,5 +1,3 @@
-04.09.2024, 10:20:07
-
 # Vth Current Reference
 
 10 uA current reference with source- and sink-port.

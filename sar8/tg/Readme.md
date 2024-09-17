@@ -1,5 +1,3 @@
-04.09.2024, 10:20:07
-
 # ADC Transmission Gate / Sample Switch
 
 Sample switch / transmission gate for 8-bit ADC.

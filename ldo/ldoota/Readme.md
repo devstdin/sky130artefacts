@@ -1,5 +1,3 @@
-04.09.2024, 10:20:07
-
 # LDO OP
 
 OpAmp used in LDO.

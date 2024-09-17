@@ -1,5 +1,3 @@
-04.09.2024, 10:20:07
-
 # Ring Oscillator
 
 Ring oscillator with enable pin.

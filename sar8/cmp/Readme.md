@@ -1,5 +1,3 @@
-04.09.2024, 10:20:07
-
 # ADC Comparator
 
 Comparator for 8-bit ADC.
